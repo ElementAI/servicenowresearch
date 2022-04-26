@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bahare Fatemi | ServiceNow Research</title>
+    <link>https://servicenowresearch.netlify.app/author/bahare-fatemi/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/author/bahare-fatemi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bahare Fatemi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <title>Bahare Fatemi</title>
+      <link>https://servicenowresearch.netlify.app/author/bahare-fatemi/</link>
+    </image>
+    
+    <item>
+      <title>Knowledge Hypergraphs: Prediction Beyond Binary Relations</title>
+      <link>https://servicenowresearch.netlify.app/publication/baharefatemiknowijcai2020/</link>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/baharefatemiknowijcai2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Knowledge Hypergraphs: Prediction Beyond Binary Relations</title>
+      <link>https://servicenowresearch.netlify.app/publication/baharefatemiknowaaaiworkshops2020/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/baharefatemiknowaaaiworkshops2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Knowledge Hypergraphs: Prediction Beyond Binary Relations</title>
+      <link>https://servicenowresearch.netlify.app/publication/baharefatemiknowwiml2019/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/baharefatemiknowwiml2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

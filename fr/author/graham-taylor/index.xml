@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graham Taylor | ServiceNow Recherche</title>
+    <link>https://servicenowresearch.netlify.app/fr/author/graham-taylor/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/fr/author/graham-taylor/index.xml" rel="self" type="application/rss+xml" />
+    <description>Graham Taylor</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language><lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <title>Graham Taylor</title>
+      <link>https://servicenowresearch.netlify.app/fr/author/graham-taylor/</link>
+    </image>
+    
+    <item>
+      <title>Graph-Density Aware Losses for Novel Compositions in Scene Graph Generation</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/borisknyazevgrapbmvc2020/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/borisknyazevgrapbmvc2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

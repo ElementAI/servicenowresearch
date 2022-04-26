@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alessandro Sordoni | ServiceNow Research</title>
+    <link>https://servicenowresearch.netlify.app/author/alessandro-sordoni/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/author/alessandro-sordoni/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alessandro Sordoni</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <title>Alessandro Sordoni</title>
+      <link>https://servicenowresearch.netlify.app/author/alessandro-sordoni/</link>
+    </image>
+    
+    <item>
+      <title>Understanding by Understanding Not: Modeling Negation in Language Models</title>
+      <link>https://servicenowresearch.netlify.app/publication/arianhosseiniundenaacl2021/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/arianhosseiniundenaacl2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards Text Generation with Adversarially Learned Neural Outlines</title>
+      <link>https://servicenowresearch.netlify.app/publication/sandeepsubramaniantowaneurips2018/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/sandeepsubramaniantowaneurips2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

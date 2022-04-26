@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Instance Segmentation | ServiceNow Recherche</title>
+    <link>https://servicenowresearch.netlify.app/fr/tag/instance-segmentation/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/fr/tag/instance-segmentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Instance Segmentation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language><lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <title>Instance Segmentation</title>
+      <link>https://servicenowresearch.netlify.app/fr/tag/instance-segmentation/</link>
+    </image>
+    
+    <item>
+      <title>Proposal-based Instance Segmentation with Point Supervision</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/issamh.laradjipropicip2020/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/issamh.laradjipropicip2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Where are the Masks: Instance Segmentation with Image-level Supervision </title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/issamh.laradjiwherbmvc2019/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/issamh.laradjiwherbmvc2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

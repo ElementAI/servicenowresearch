@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News | ServiceNow Research</title>
+    <link>https://servicenowresearch.netlify.app/post/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latest News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <title>Latest News</title>
+      <link>https://servicenowresearch.netlify.app/post/</link>
+    </image>
+    
+    <item>
+      <title>ServiceNow Research spotlight: Papers accepted at ACL 2022</title>
+      <link>https://servicenowresearch.netlify.app/post/2022-04-21servicen/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/post/2022-04-21servicen/</guid>
+      <description>&lt;p&gt;&amp;lsquo;The 60th annual meeting of the &lt;a href=&#34;https://www.2022.aclweb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Association for Computational Linguistics&lt;/a&gt;,
+ACL 2022, will take place in Dublin, Ireland, from May 22-27, 2022. ACL is the premier
+international scientific and professional society for people working on computational
+problems involving human language, a field often referred to as either computational
+linguistics or natural language processing (NLP).&lt;/p&gt;
+&lt;p&gt;At ServiceNow Research, the Human Machine Interaction Through Language team (HMITL)
+works on advancing AI technology to solve language-related questions. We are excited
+to announce that, in collaboration with other experts in the field, many HMITL researchers
+will present their work during the ACL 2022 conference.&lt;/p&gt;
+&lt;p&gt;Papers accepted to the main conference:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Compositional Generalization in Dependency Parsing (Emily Goodwin, Siva Reddy, Timothy
+J. O’Donnell, Dzmitry Bahdanau) (&lt;a href=&#34;https://arxiv.org/pdf/2110.06843.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;LAGr: Labeling Aligned Graphs for Improving Systematic Generalization in Semantic
+Parsing (Dora Jambor, Dzmitry Bahdanau) (&lt;a href=&#34;https://arxiv.org/pdf/2110.07572.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The Power of Prompt Tuning for Low-Resource Semantic Parsing (Nathan Schucher, Siva
+Reddy, Harm de Vries) (&lt;a href=&#34;https://arxiv.org/pdf/2110.08525.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;TopiOCQA: Open-domain Conversational Question Answering with Topic Switching (Vaibhav
+Adlakha, Shehzaad Dhuliawala, Kaheer Suleman, Harm de Vries, Siva Reddy) (&lt;a href=&#34;https://arxiv.org/pdf/2110.00768.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We are excited to announce that this paper will also be published in Transactions
+of the Association for Computational Linguistics, an ACL-sponsored journal published
+by MIT Press!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The following paper will be presented at the &lt;a href=&#34;https://sites.google.com/view/4thnlp4convai/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;4th Workshop on NLP for Conversational
+AI&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Data Augmentation for Intent Classification with Off-the-shelf Large Language
+Models (Gaurav Sahu, Pau Rodriguez, Parmida Atighhehchian, Issam H. Laradji, David
+Vazquez, Dzmitry Bahdanau) (&lt;a href=&#34;https://openreview.net/pdf?id=Yy2sTU8uCak&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In addition to the main conference that will be held from May 23-25, ACL will host
+an exciting line-up of &lt;a href=&#34;https://www.2022.aclweb.org/tutorials&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tutorials&lt;/a&gt; (May 22)
+as well as &lt;a href=&#34;https://www.2022.aclweb.org/workshops&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;workshops&lt;/a&gt; and co-located events
+(May 26-27). &lt;/p&gt;
+&lt;p&gt;We would like to thank the ACL 2022 &lt;a href=&#34;https://www.2022.aclweb.org/organisers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;organizing committee&lt;/a&gt;,
+including all &lt;a href=&#34;https://www.2022.aclweb.org/senior-area-chairs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Senior Area Chairs&lt;/a&gt;,
+Chairs, and partners for hosting this conference.&lt;/p&gt;
+&lt;p&gt;Congratulations to all the researchers whose papers have been accepted. We wish
+you all the best at the conference!&lt;/p&gt;
+&lt;p&gt;Join ServiceNow Research to help advance the state-of-the-art in Enterprise AI&lt;/p&gt;
+&lt;p&gt;If you’re a researcher interested in learning about research internships, and full-time
+or part-time career opportunities with ServiceNow Research, please fill out &lt;a href=&#34;https://join.smartrecruiters.com/ServiceNow/38c92431-02d5-4543-947e-6f48c2531d1e-visiting-researcher-form-eng&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this
+form&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ServiceNow Research spotlight: Papers accepted at the 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</title>
+      <link>https://servicenowresearch.netlify.app/post/2022-03-14servicen/</link>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/post/2022-03-14servicen/</guid>
+      <description>&lt;p&gt;&amp;lsquo;The 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)will
+take place from June 19-24, 2022 in New Orleans, Louisiana. The Conference is planned
+to be held in person, with an online option offered to those who cannot travel.
+First held in 1985, CVPR has become the premier annual computer vision event for
+the brightest minds in the field, attracting participation and collaboration across
+industry and academia. &lt;/p&gt;
+&lt;p&gt;We are excited to announce that, in partnership with external collaborators, researchers
+from the ServiceNow Research Low-Data Learning program team will present their papers
+at the main conference. Low Data Learning studies Machine Learning methods that
+enable adapting efficiently to varied and changing datasets. ServiceNow Research
+focuses on a wide range of downstream tasks such as language understanding, computer
+vision, robotic automation, and learning workflows.&lt;/p&gt;
+&lt;p&gt;Papers accepted to the main conference:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Multi-label Iterated Learning for Image Classification with Label Ambiguity (Sai
+Rajeswar, Pau Rodriguez, Soumye Singhal, David Vazquez, Aaron Courville) [&lt;a href=&#34;https://arxiv.org/pdf/2111.12172.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kubric: A scalable dataset generator (Klaus Greff, Francois Belletti, Lucas Beyer, Carl
+Doersch, Yilun Du, Daniel Duckworth, David J. Fleet, Dan Gnanapragasam, Florian
+Golemo, Charles Herrmann, Thomas Kipf, Abhijit Kundu, Dmitry Lagun, Issam Laradji, Hsueh-Ti (Derek)Liu, Henning
+Meyer, Yishu Miao, Derek Nowrouzezahrai, Cengiz Oztireli, Etienne Pot, Noha Radwan, Daniel
+Rebain, Sara Sabour, Mehdi S. M. Sajjadi, Matan Sela, Vincent Sitzmann, Austin Stone, Deqing
+Sun, Suhani Vora, Ziyu Wang, Tianhao Wu, Kwang Moo Yi, Fangcheng Zhong, Andrea Tagliasacchi)
+[&lt;a href=&#34;https://arxiv.org/pdf/2203.03570.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Neural Point Light Fields (Julian Ost, Issam Laradji, Alejandro Newell, Yuval
+Bahat, Felix Heide) [&lt;a href=&#34;https://arxiv.org/pdf/2112.01473.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;]&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;In addition to the main conference, CVPR will host an exciting line-up of workshops
+(June 19-20), short courses, as well as an exhibition (June 21-23). Learn more at
+the &lt;a href=&#34;https://cvpr2022.thecvf.com/workshop-schedule&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CVPR 2022 conference website&lt;/a&gt;.
+We are delighted to be supporting the following workshops that members of the ServiceNow
+Research team are co-hosting:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Workshop on Continual Learning in Computer Vision (David Vazquez, Pau Rodriguez,
+and external collaborators) [&lt;a href=&#34;https://www.linkedin.com/pulse/3rd-clvision-cvpr-workshop-servicenow-research/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;More information&lt;/a&gt;]&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Workshop on Learning from Limited Labelled Data for Image and Video Understanding (David
+Vazquez, Issam H. Laradji, Pau Rodriguez, and external collaborators) [&lt;a href=&#34;https://www.linkedin.com/pulse/l3d-ivu-workshop-cvpr-2022-servicenow-research/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;More information&lt;/a&gt;] &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We would like to thank the CVPR 2022 &lt;a href=&#34;https://cvpr2022.thecvf.com/organizers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;organizing committee&lt;/a&gt;,
+including all Chairs and partners for hosting this conference.&lt;/p&gt;
+&lt;p&gt;Congratulations to all the researchers whose papers and workshops have been accepted.
+We wish you all the best at the conference!&lt;/p&gt;
+&lt;h3 id=&#34;join-servicenow-research-to-help-advance-the-state-of-the-art-in-enterprise&#34;&gt;Join ServiceNow Research to help advance the state-of-the-art in Enterprise&lt;/h3&gt;
+&lt;p&gt;AI &lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;&amp;rsquo;re a researcher interested in learning about full-time and part-time career
+opportunities with ServiceNow Research, please fill out &lt;a href=&#34;https://join.smartrecruiters.com/ServiceNow/38c92431-02d5-4543-947e-6f48c2531d1e-visiting-researcher-form-eng&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this form&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Tremblay | ServiceNow Research</title>
+    <link>https://servicenowresearch.netlify.app/author/daniel-tremblay/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/author/daniel-tremblay/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Tremblay</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://servicenowresearch.netlify.app/author/daniel-tremblay/avatar_hu2dcbb663a2eb7a0bd5a8deb0d55e2fce_285656_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Daniel Tremblay</title>
+      <link>https://servicenowresearch.netlify.app/author/daniel-tremblay/</link>
+    </image>
+    
+  </channel>
+</rss>

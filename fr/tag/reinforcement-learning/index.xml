@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reinforcement Learning | ServiceNow Recherche</title>
+    <link>https://servicenowresearch.netlify.app/fr/tag/reinforcement-learning/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/fr/tag/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reinforcement Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language><lastBuildDate>Wed, 25 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <title>Reinforcement Learning</title>
+      <link>https://servicenowresearch.netlify.app/fr/tag/reinforcement-learning/</link>
+    </image>
+    
+    <item>
+      <title>Finding and Visualizing Weaknesses of Deep Reinforcement Learning Agents</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/christianrupprechtfindiclr2020/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/christianrupprechtfindiclr2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reinforced Active Learning for Image Segmentation</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/arantxacasanovareiniclr2020/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/arantxacasanovareiniclr2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning Reward Machines for Partially Observable Reinforcement Learning</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/rodrigotoroicartelearneurips2019/</link>
+      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/rodrigotoroicartelearneurips2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Real-Time Reinforcement Learning</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/simonramstedtrealneurips2019/</link>
+      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/simonramstedtrealneurips2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Searching for Markovian Subproblems to Address Partially Observable Reinforcement Learning</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/rodrigotoroicartesearrldm2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/rodrigotoroicartesearrldm2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BabyAI: A Platform to Study the Sample Efficiency of Grounded Language Learning</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/maximechevalier-boisvertbabyiclr2019/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/maximechevalier-boisvertbabyiclr2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improving Optimization Bounds using Machine Learning: Decision Diagrams meet Deep Reinforcement Learning</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/quentincappartimpraaai2019/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/quentincappartimpraaai2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reinforced Imitation in Heterogeneous Action Space</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/konradzolnareinneuripsworkshops2018/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/konradzolnareinneuripsworkshops2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LTL and Beyond: Formal Languages for Reward Function Specification in Reinforcement Learning</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/albertocamacholtlaijcai2018/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/albertocamacholtlaijcai2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Advice-Based Exploration in Model-Based Reinforcement Learning</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/rodrigotoroicarteadvicanadianai2018/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/rodrigotoroicarteadvicanadianai2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using Reward Machines for High-Level Task Specification and Decomposition in Reinforcement Learning</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/rodrigotoroicarteusinicml2018/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/rodrigotoroicarteusinicml2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching Multiple Tasks to an RL Agent using LTL</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/rodrigotoroicarteteacaamas2018/</link>
+      <pubDate>Tue, 14 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/rodrigotoroicarteteacaamas2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Probabilistic Perspective on Reinforcement Learning via Supervised Learning</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/alexandrepicheaproiclrworkshops2022/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/alexandrepicheaproiclrworkshops2022/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Combining Reinforcement Learning and Constraint Programming for Combinatorial Optimization</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/quentincappartcombaaai2021/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/quentincappartcombaaai2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Promoting Coordination through Policy Regularization in Multi-Agent Deep Reinforcement Learning</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/julienroypromneurips2020/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/julienroypromneurips2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning with Random Delays</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/simonramstedtreiniclr2021/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/simonramstedtreiniclr2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Systematic Evaluation of Causal Discovery in Visual Model Based Reinforcement Learning</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/nanrosemarykesystneurips2021/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/nanrosemarykesystneurips2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Touch-based Curiosity for Sparse-Reward Tasks</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/sairajeswartouccorl2021/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/sairajeswartouccorl2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaotian Liu | ServiceNow Research</title>
+    <link>https://servicenowresearch.netlify.app/author/xiaotian-liu/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/author/xiaotian-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaotian Liu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://servicenowresearch.netlify.app/author/xiaotian-liu/avatar_hu63578c86e95159c7663402850303aff0_456687_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Xiaotian Liu</title>
+      <link>https://servicenowresearch.netlify.app/author/xiaotian-liu/</link>
+    </image>
+    
+  </channel>
+</rss>

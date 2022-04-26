@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gregory Dudek | ServiceNow Research</title>
+    <link>https://servicenowresearch.netlify.app/author/gregory-dudek/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/author/gregory-dudek/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gregory Dudek</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <title>Gregory Dudek</title>
+      <link>https://servicenowresearch.netlify.app/author/gregory-dudek/</link>
+    </image>
+    
+    <item>
+      <title>Investigating Trust Factors in Human-Robot Shared Control: Implicit Gender Bias Around Robot Voice</title>
+      <link>https://servicenowresearch.netlify.app/publication/alexanderwonginvecrv2019/</link>
+      <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/alexanderwonginvecrv2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Underwater Multi-Robot Convoying using Visual Tracking by Detection</title>
+      <link>https://servicenowresearch.netlify.app/publication/florianshkurtiundeiros2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/florianshkurtiundeiros2017/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

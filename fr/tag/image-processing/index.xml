@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Image Processing | ServiceNow Recherche</title>
+    <link>https://servicenowresearch.netlify.app/fr/tag/image-processing/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/fr/tag/image-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Image Processing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language><lastBuildDate>Fri, 18 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <title>Image Processing</title>
+      <link>https://servicenowresearch.netlify.app/fr/tag/image-processing/</link>
+    </image>
+    
+    <item>
+      <title>Unsupervised Depth Estimation, 3D Face Rotation and Replacement</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/joelrubenantonymonizunsuneurips2018/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/joelrubenantonymonizunsuneurips2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning to Remove Rain in Traffic Surveillance by Using Synthetic Data</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/chrish.bahnsenlearvisigrapp2018/</link>
+      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/chrish.bahnsenlearvisigrapp2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

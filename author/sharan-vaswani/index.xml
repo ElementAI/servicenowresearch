@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sharan Vaswani | ServiceNow Research</title>
+    <link>https://servicenowresearch.netlify.app/author/sharan-vaswani/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/author/sharan-vaswani/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sharan Vaswani</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <title>Sharan Vaswani</title>
+      <link>https://servicenowresearch.netlify.app/author/sharan-vaswani/</link>
+    </image>
+    
+    <item>
+      <title>Stochastic polyak step-size for sgd: An adaptive learning rate for fast convergence</title>
+      <link>https://servicenowresearch.netlify.app/publication/nicolasloizoustocaistats2021/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/nicolasloizoustocaistats2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fast and Furious Convergence: Stochastic Second Order Methods under Interpolation</title>
+      <link>https://servicenowresearch.netlify.app/publication/siyimengfastaistats2020/</link>
+      <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/siyimengfastaistats2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Painless Stochastic Gradient: Interpolation, Line-Search, and Convergence Rates</title>
+      <link>https://servicenowresearch.netlify.app/publication/sharanvaswanipainneurips2019/</link>
+      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/sharanvaswanipainneurips2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

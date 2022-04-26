@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oleksiy Ostapenko | ServiceNow Recherche</title>
+    <link>https://servicenowresearch.netlify.app/fr/author/oleksiy-ostapenko/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/fr/author/oleksiy-ostapenko/index.xml" rel="self" type="application/rss+xml" />
+    <description>Oleksiy Ostapenko</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language><lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/fr/author/oleksiy-ostapenko/avatar_huc7c16ae8ba602eeb6d5b5f57484ba443_6059_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Oleksiy Ostapenko</title>
+      <link>https://servicenowresearch.netlify.app/fr/author/oleksiy-ostapenko/</link>
+    </image>
+    
+    <item>
+      <title>Continual Learning via Local Module Composition</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/oleksiyostapenkocontneurips2021/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/oleksiyostapenkocontneurips2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Online Fast Adaptation and Knowledge Accumulation: a New Approach to Continual Learning</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/massimocacciaonlineurips2020/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/massimocacciaonlineurips2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Online Fast Adaptation and Knowledge Accumulation: a New Approach to Continual Learning</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/massimocacciaonlicvprworkshops2020/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/massimocacciaonlicvprworkshops2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

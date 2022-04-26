@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Siva Reddy | ServiceNow Research</title>
+    <link>https://servicenowresearch.netlify.app/author/siva-reddy/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/author/siva-reddy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Siva Reddy</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <title>Siva Reddy</title>
+      <link>https://servicenowresearch.netlify.app/author/siva-reddy/</link>
+    </image>
+    
+    <item>
+      <title>Compositional Generalization in Dependency Parsing</title>
+      <link>https://servicenowresearch.netlify.app/publication/emilygoodwincompacl2022/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/emilygoodwincompacl2022/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Power of Prompt Tuning for Low-Resource Semantic Parsing</title>
+      <link>https://servicenowresearch.netlify.app/publication/nathanschucherthepacl2022/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/nathanschucherthepacl2022/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TopiOCQA: Open-domain Conversational Question Answering with Topic Switching</title>
+      <link>https://servicenowresearch.netlify.app/publication/vaibhavadlakhatopiacl2022/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/vaibhavadlakhatopiacl2022/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding by Understanding Not: Modeling Negation in Language Models</title>
+      <link>https://servicenowresearch.netlify.app/publication/arianhosseiniundenaacl2021/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/arianhosseiniundenaacl2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Measuring Systematic Generalization in Neural Proof Generation with Transformers</title>
+      <link>https://servicenowresearch.netlify.app/publication/nicolasgontiermeasneurips2020/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/nicolasgontiermeasneurips2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

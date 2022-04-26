@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sai Rajeswar Mudumba | ServiceNow Research</title>
+    <link>https://servicenowresearch.netlify.app/author/sai-rajeswar-mudumba/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/author/sai-rajeswar-mudumba/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sai Rajeswar Mudumba</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/author/sai-rajeswar-mudumba/avatar_hudd671b36d6c2d4d36e55e1069b5bb194_338189_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Sai Rajeswar Mudumba</title>
+      <link>https://servicenowresearch.netlify.app/author/sai-rajeswar-mudumba/</link>
+    </image>
+    
+    <item>
+      <title>Multi-label Iterated Learning for Image Classification with Label Ambiguity</title>
+      <link>https://servicenowresearch.netlify.app/publication/sairajeswarmudumbamultcvpr2022/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/sairajeswarmudumbamultcvpr2022/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adversarial Computation of Optimal Transport Maps</title>
+      <link>https://servicenowresearch.netlify.app/publication/jacobleygonieadvearxiv2019/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/jacobleygonieadvearxiv2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pix2Shape: Towards Unsupervised Learning of 3D Scenesfrom Images using a View-based Representation</title>
+      <link>https://servicenowresearch.netlify.app/publication/sairajeswarmudumbapix2ijcv2020/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/sairajeswarmudumbapix2ijcv2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards Text Generation with Adversarially Learned Neural Outlines</title>
+      <link>https://servicenowresearch.netlify.app/publication/sandeepsubramaniantowaneurips2018/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/sandeepsubramaniantowaneurips2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Adversarially Learned Inference</title>
+      <link>https://servicenowresearch.netlify.app/publication/ishmaelbelghazihiericmlworkshops2018/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/ishmaelbelghazihiericmlworkshops2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

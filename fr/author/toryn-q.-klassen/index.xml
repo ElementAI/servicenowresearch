@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Toryn Q. Klassen | ServiceNow Recherche</title>
+    <link>https://servicenowresearch.netlify.app/fr/author/toryn-q.-klassen/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/fr/author/toryn-q.-klassen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Toryn Q. Klassen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language><lastBuildDate>Thu, 23 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <title>Toryn Q. Klassen</title>
+      <link>https://servicenowresearch.netlify.app/fr/author/toryn-q.-klassen/</link>
+    </image>
+    
+    <item>
+      <title>Learning Reward Machines for Partially Observable Reinforcement Learning</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/rodrigotoroicartelearneurips2019/</link>
+      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/rodrigotoroicartelearneurips2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Searching for Markovian Subproblems to Address Partially Observable Reinforcement Learning</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/rodrigotoroicartesearrldm2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/rodrigotoroicartesearrldm2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LTL and Beyond: Formal Languages for Reward Function Specification in Reinforcement Learning</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/albertocamacholtlaijcai2018/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/albertocamacholtlaijcai2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Advice-Based Exploration in Model-Based Reinforcement Learning</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/rodrigotoroicarteadvicanadianai2018/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/rodrigotoroicarteadvicanadianai2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using Reward Machines for High-Level Task Specification and Decomposition in Reinforcement Learning</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/rodrigotoroicarteusinicml2018/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/rodrigotoroicarteusinicml2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching Multiple Tasks to an RL Agent using LTL</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/rodrigotoroicarteteacaamas2018/</link>
+      <pubDate>Tue, 14 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/rodrigotoroicarteteacaamas2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

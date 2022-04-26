@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bioinformatics | ServiceNow Research</title>
+    <link>https://servicenowresearch.netlify.app/tag/bioinformatics/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/tag/bioinformatics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bioinformatics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <title>Bioinformatics</title>
+      <link>https://servicenowresearch.netlify.app/tag/bioinformatics/</link>
+    </image>
+    
+    <item>
+      <title>RandomSCM: interpretable ensembles of sparse classifiers tailored for omics data</title>
+      <link>https://servicenowresearch.netlify.app/publication/thibaudgodonrandismb/eccb2021/</link>
+      <pubDate>Sun, 25 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/thibaudgodonrandismb/eccb2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Phylogenetic Manifold Regularization: a semi-supervised approach to predict transcription factor binding sites</title>
+      <link>https://servicenowresearch.netlify.app/publication/faizyahsanphylieeebibm2020/</link>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/faizyahsanphylieeebibm2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interpretable genotype-to-phenotype classifiers with performance guarantees</title>
+      <link>https://servicenowresearch.netlify.app/publication/alexandredrouinintenaturesr2020/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/alexandredrouinintenaturesr2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mass spectra alignment using virtual lock-masses</title>
+      <link>https://servicenowresearch.netlify.app/publication/francisbrochumassnaturesr2020/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/francisbrochumassnaturesr2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Hewlett | ServiceNow Research</title>
+    <link>https://servicenowresearch.netlify.app/author/daniel-hewlett/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/author/daniel-hewlett/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Hewlett</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <title>Daniel Hewlett</title>
+      <link>https://servicenowresearch.netlify.app/author/daniel-hewlett/</link>
+    </image>
+    
+    <item>
+      <title>Accurate Supervised and Semi-Supervised Machine Reading for Long Documents</title>
+      <link>https://servicenowresearch.netlify.app/publication/danielhewlettaccuemnlp2017/</link>
+      <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/danielhewlettaccuemnlp2017/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Coarse-to-Fine Question Answering for Long Documents</title>
+      <link>https://servicenowresearch.netlify.app/publication/eunsolchoicoaracl2016/</link>
+      <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/eunsolchoicoaracl2016/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

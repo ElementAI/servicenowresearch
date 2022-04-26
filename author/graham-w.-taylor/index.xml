@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graham W. Taylor | ServiceNow Research</title>
+    <link>https://servicenowresearch.netlify.app/author/graham-w.-taylor/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/author/graham-w.-taylor/index.xml" rel="self" type="application/rss+xml" />
+    <description>Graham W. Taylor</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <title>Graham W. Taylor</title>
+      <link>https://servicenowresearch.netlify.app/author/graham-w.-taylor/</link>
+    </image>
+    
+    <item>
+      <title>Generative Compositional Augmentations for Scene Graph Prediction</title>
+      <link>https://servicenowresearch.netlify.app/publication/borisknyazevgeneiccv2021/</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/borisknyazevgeneiccv2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thien Huu Nguyen | ServiceNow Recherche</title>
+    <link>https://servicenowresearch.netlify.app/fr/author/thien-huu-nguyen/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/fr/author/thien-huu-nguyen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thien Huu Nguyen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language><lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <title>Thien Huu Nguyen</title>
+      <link>https://servicenowresearch.netlify.app/fr/author/thien-huu-nguyen/</link>
+    </image>
+    
+    <item>
+      <title>BabyAI: A Platform to Study the Sample Efficiency of Grounded Language Learning</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/maximechevalier-boisvertbabyiclr2019/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/maximechevalier-boisvertbabyiclr2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Systematic Generalization: What Is Required and Can It Be Learned?</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/dzmitrybahdanausysticlr2019/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/dzmitrybahdanausysticlr2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

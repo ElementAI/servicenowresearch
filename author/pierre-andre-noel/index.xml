@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pierre-André Noël | ServiceNow Research</title>
+    <link>https://servicenowresearch.netlify.app/author/pierre-andre-noel/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/author/pierre-andre-noel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pierre-André Noël</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/author/pierre-andre-noel/avatar_hu0f655fe9bec40be3c18ff88165d8ce1b_24392_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Pierre-André Noël</title>
+      <link>https://servicenowresearch.netlify.app/author/pierre-andre-noel/</link>
+    </image>
+    
+    <item>
+      <title>On the Value of ML Models</title>
+      <link>https://servicenowresearch.netlify.app/publication/fabiocasationthneuripsworkshops2021/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/fabiocasationthneuripsworkshops2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

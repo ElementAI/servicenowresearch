@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dataset | ServiceNow Research</title>
+    <link>https://servicenowresearch.netlify.app/tag/dataset/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/tag/dataset/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dataset</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <title>Dataset</title>
+      <link>https://servicenowresearch.netlify.app/tag/dataset/</link>
+    </image>
+    
+    <item>
+      <title>Kubric: A scalable dataset generator</title>
+      <link>https://servicenowresearch.netlify.app/publication/klausgreffkubrcvpr2022/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/klausgreffkubrcvpr2022/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Synbols: Probing Learning Algorithms with Synthetic Datasets</title>
+      <link>https://servicenowresearch.netlify.app/publication/alexandrelacostesynbmais2018/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/alexandrelacostesynbmais2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Synbols: Probing Learning Algorithms with Synthetic Datasets</title>
+      <link>https://servicenowresearch.netlify.app/publication/alexandrelacostesynbneurips2020/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/alexandrelacostesynbneurips2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Online Fast Adaptation and Knowledge Accumulation: a New Approach to Continual Learning</title>
+      <link>https://servicenowresearch.netlify.app/publication/massimocacciaonlineurips2020/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/massimocacciaonlineurips2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A realistic fish-habitat dataset to evaluate algorithms for underwater visual analysis</title>
+      <link>https://servicenowresearch.netlify.app/publication/alzayatsalehareanaturesr2021/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/alzayatsalehareanaturesr2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SEVN: A Sidewalk Simulation Environment for Visual Navigation</title>
+      <link>https://servicenowresearch.netlify.app/publication/martinweisssevncorl2019/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/martinweisssevncorl2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards Standardization of Data Licenses: The Montreal Data License</title>
+      <link>https://servicenowresearch.netlify.app/publication/mishabenjamintowaiclrworkshops2019/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/mishabenjamintowaiclrworkshops2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fashion-Gen: The Generative Fashion Dataset and Challenge</title>
+      <link>https://servicenowresearch.netlify.app/publication/negarrostamzadehfashwiml2018/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/negarrostamzadehfashwiml2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fashion-Gen: The Generative Fashion Dataset and Challenge</title>
+      <link>https://servicenowresearch.netlify.app/publication/negarrostamzadehfashicmlworkshops2018/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/negarrostamzadehfashicmlworkshops2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex Lamb | ServiceNow Research</title>
+    <link>https://servicenowresearch.netlify.app/author/alex-lamb/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/author/alex-lamb/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alex Lamb</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <title>Alex Lamb</title>
+      <link>https://servicenowresearch.netlify.app/author/alex-lamb/</link>
+    </image>
+    
+    <item>
+      <title>On Adversarial Mixup Resynthesis</title>
+      <link>https://servicenowresearch.netlify.app/publication/christopherbeckhamonadneurips2019/</link>
+      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/christopherbeckhamonadneurips2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adversarial Mixup Resynthesizers</title>
+      <link>https://servicenowresearch.netlify.app/publication/christopherbeckhamadveiclrworkshops2019/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/christopherbeckhamadveiclrworkshops2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Few-shot Learning | ServiceNow Recherche</title>
+    <link>https://servicenowresearch.netlify.app/fr/tag/few-shot-learning/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/fr/tag/few-shot-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Few-shot Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language><lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <title>Few-shot Learning</title>
+      <link>https://servicenowresearch.netlify.app/fr/tag/few-shot-learning/</link>
+    </image>
+    
+    <item>
+      <title>Synbols: Probing Learning Algorithms with Synthetic Datasets</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/alexandrelacostesynbmais2018/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/alexandrelacostesynbmais2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Synbols: Probing Learning Algorithms with Synthetic Datasets</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/alexandrelacostesynbneurips2020/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/alexandrelacostesynbneurips2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Embedding Propagation: Smoother Manifold for Few-Shot Classification</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/paurodriguezembeeccv2020/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/paurodriguezembeeccv2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adaptive Cross-Modal Few-shot Learning</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/chenxingadapneurips2019/</link>
+      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/chenxingadapneurips2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adaptive Masked Proxies for Few-Shot Segmentation</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/mennatullahsiamadapiccv2019/</link>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/mennatullahsiamadapiccv2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adaptive Cross-Modal Few-shot Learning</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/chenxingadapiclrworkshops2019/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/chenxingadapiclrworkshops2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adaptive Masked Weight Imprinting for Few-Shot Segmentation</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/mennatullahsiamadapiclrworkshops2019/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/mennatullahsiamadapiclrworkshops2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reproducibility and Stability Analysis in Metric-Based Few-Shot Learning</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/nathanschucherrepriclrworkshops2019/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/nathanschucherrepriclrworkshops2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TADAM: Task dependent adaptive metric for improved few-shot learning</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/borisn.oreshkintadaneurips2018/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/borisn.oreshkintadaneurips2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

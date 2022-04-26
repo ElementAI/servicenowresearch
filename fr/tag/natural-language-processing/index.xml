@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Natural Language Processing | ServiceNow Recherche</title>
+    <link>https://servicenowresearch.netlify.app/fr/tag/natural-language-processing/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/fr/tag/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Natural Language Processing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language><lastBuildDate>Mon, 15 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <title>Natural Language Processing</title>
+      <link>https://servicenowresearch.netlify.app/fr/tag/natural-language-processing/</link>
+    </image>
+    
+    <item>
+      <title>Data Augmentation for Intent Classification with Off-the-shelf Large Language Models</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/gauravsahudataaclworkshops2022/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/gauravsahudataaclworkshops2022/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TopiOCQA: Open-domain Conversational Question Answering with Topic Switching</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/vaibhavadlakhatopiacl2022/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/vaibhavadlakhatopiacl2022/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Picard: Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/torstenscholakpicaemnlp2021/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/torstenscholakpicaemnlp2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DuoRAT: Towards Simpler Text-to-SQL Models</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/torstenscholakduornaacl2021/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/torstenscholakduornaacl2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding by Understanding Not: Modeling Negation in Language Models</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/arianhosseiniundenaacl2021/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/arianhosseiniundenaacl2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On Extractive and Abstractive Neural Document Summarization with Transformer Language Models</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/sandeepsubramanianonexemnlp2020/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/sandeepsubramanianonexemnlp2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the impressive performance of randomly weighted encoders in summarization tasks</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/jonathanpilaultonthacl2019/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/jonathanpilaultonthacl2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Investigating Trust Factors in Human-Robot Shared Control: Implicit Gender Bias Around Robot Voice</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/alexanderwonginvecrv2019/</link>
+      <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/alexanderwonginvecrv2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adversarially-Trained Normalized Noisy-Feature Auto-Encoder for Text Generation</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/xiangzhangadvearxiv2018/</link>
+      <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/xiangzhangadvearxiv2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BabyAI: A Platform to Study the Sample Efficiency of Grounded Language Learning</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/maximechevalier-boisvertbabyiclr2019/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/maximechevalier-boisvertbabyiclr2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards Deep Conversational Recommendations</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/raymondlitowaneurips2018/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/raymondlitowaneurips2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards Text Generation with Adversarially Learned Neural Outlines</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/sandeepsubramaniantowaneurips2018/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/sandeepsubramaniantowaneurips2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LTL and Beyond: Formal Languages for Reward Function Specification in Reinforcement Learning</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/albertocamacholtlaijcai2018/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/albertocamacholtlaijcai2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Strong Baselines for Simple Question Answering over Knowledge Graphs with and without Neural Networks</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/salmanmohammedstronaacl2018/</link>
+      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/salmanmohammedstronaacl2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accurate Supervised and Semi-Supervised Machine Reading for Long Documents</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/danielhewlettaccuemnlp2017/</link>
+      <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/danielhewlettaccuemnlp2017/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Conditionally Adaptive Multi-Task Learning: Improving Transfer Learning in NLP Using Fewer Parameters &amp; Less Data</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/jonathanpilaultcondiclr2021/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/jonathanpilaultcondiclr2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/torstenscholakunifnoconference2022/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/torstenscholakunifnoconference2022/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Coarse-to-Fine Question Answering for Long Documents</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/eunsolchoicoaracl2016/</link>
+      <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/eunsolchoicoaracl2016/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

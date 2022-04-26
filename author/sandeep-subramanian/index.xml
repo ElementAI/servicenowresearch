@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sandeep Subramanian | ServiceNow Research</title>
+    <link>https://servicenowresearch.netlify.app/author/sandeep-subramanian/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/author/sandeep-subramanian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sandeep Subramanian</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <title>Sandeep Subramanian</title>
+      <link>https://servicenowresearch.netlify.app/author/sandeep-subramanian/</link>
+    </image>
+    
+    <item>
+      <title>On Extractive and Abstractive Neural Document Summarization with Transformer Language Models</title>
+      <link>https://servicenowresearch.netlify.app/publication/sandeepsubramanianonexemnlp2020/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/sandeepsubramanianonexemnlp2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards Text Generation with Adversarially Learned Neural Outlines</title>
+      <link>https://servicenowresearch.netlify.app/publication/sandeepsubramaniantowaneurips2018/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/sandeepsubramaniantowaneurips2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Complex Networks</title>
+      <link>https://servicenowresearch.netlify.app/publication/chihebtrabelsideepiclr2018/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/chihebtrabelsideepiclr2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

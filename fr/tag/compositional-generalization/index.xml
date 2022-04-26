@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Compositional Generalization | ServiceNow Recherche</title>
+    <link>https://servicenowresearch.netlify.app/fr/tag/compositional-generalization/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/fr/tag/compositional-generalization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Compositional Generalization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <title>Compositional Generalization</title>
+      <link>https://servicenowresearch.netlify.app/fr/tag/compositional-generalization/</link>
+    </image>
+    
+    <item>
+      <title>Object-centric Compositional Imagination for Visual Abstract Reasoning</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/rimassouelobjeiclrworkshops2022/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/rimassouelobjeiclrworkshops2022/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Continual Learning via Local Module Composition</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/oleksiyostapenkocontneurips2021/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/oleksiyostapenkocontneurips2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Compositional Generalization in Dependency Parsing</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/emilygoodwincompacl2022/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/emilygoodwincompacl2022/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Generative Compositional Augmentations for Scene Graph Prediction</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/borisknyazevgeneiccv2021/</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/borisknyazevgeneiccv2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

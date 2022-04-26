@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ousmane Amadou Dia | ServiceNow Research</title>
+    <link>https://servicenowresearch.netlify.app/author/ousmane-amadou-dia/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/author/ousmane-amadou-dia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ousmane Amadou Dia</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <title>Ousmane Amadou Dia</title>
+      <link>https://servicenowresearch.netlify.app/author/ousmane-amadou-dia/</link>
+    </image>
+    
+    <item>
+      <title>Adversarial Functionality-Preserving Training in the Malware Domain</title>
+      <link>https://servicenowresearch.netlify.app/publication/ousmaneamadoudiaadveneuripsworkshops2019/</link>
+      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/ousmaneamadoudiaadveneuripsworkshops2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Retrieving Signals in the Frequency Domain with Deep Complex Extractors</title>
+      <link>https://servicenowresearch.netlify.app/publication/chihebtrabelsiretrneuripsworkshops2019/</link>
+      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/chihebtrabelsiretrneuripsworkshops2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Semantics Preserving Adversarial Learning</title>
+      <link>https://servicenowresearch.netlify.app/publication/ousmaneamadoudiasemaarxiv2019/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/ousmaneamadoudiasemaarxiv2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Model-Agnostic Meta-Learning</title>
+      <link>https://servicenowresearch.netlify.app/publication/taesupkimbayemais2018/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/taesupkimbayemais2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

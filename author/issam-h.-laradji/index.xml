@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Issam H. Laradji | ServiceNow Research</title>
+    <link>https://servicenowresearch.netlify.app/author/issam-h.-laradji/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/author/issam-h.-laradji/index.xml" rel="self" type="application/rss+xml" />
+    <description>Issam H. Laradji</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/author/issam-h.-laradji/avatar_hu1ee2e666f6da8c63d5cd73f86d52c4e4_29461_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Issam H. Laradji</title>
+      <link>https://servicenowresearch.netlify.app/author/issam-h.-laradji/</link>
+    </image>
+    
+    <item>
+      <title>A Soft Labeling Approach to Develop Automated Algorithms that Incorporate Uncertainty in Pulmonary Opacification on Chest CT using COVID-19 Pneumonia</title>
+      <link>https://servicenowresearch.netlify.app/publication/issamh.laradjiasofar2022/</link>
+      <pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/issamh.laradjiasofar2022/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kubric: A scalable dataset generator</title>
+      <link>https://servicenowresearch.netlify.app/publication/klausgreffkubrcvpr2022/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/klausgreffkubrcvpr2022/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neural Point Light Fields</title>
+      <link>https://servicenowresearch.netlify.app/publication/julianostneurcvpr2022/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/julianostneurcvpr2022/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Augmentation for Intent Classification with Off-the-shelf Large Language Models</title>
+      <link>https://servicenowresearch.netlify.app/publication/gauravsahudataaclworkshops2022/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/gauravsahudataaclworkshops2022/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Deep Learning Localization Method for Measuring Abdominal Muscle Dimensions in Ultrasound Images</title>
+      <link>https://servicenowresearch.netlify.app/publication/alzayatsalehadeenaturesr2021/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/alzayatsalehadeenaturesr2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beyond Trivial Counterfactual Explanations with Diverse Valuable Explanations</title>
+      <link>https://servicenowresearch.netlify.app/publication/paurodriguezbeyoiccv2021/</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/paurodriguezbeyoiccv2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SSR: Semi-supervised Soft Rasterizer for single-view 2D to 3D Reconstruction</title>
+      <link>https://servicenowresearch.netlify.app/publication/issamh.laradjissriccvworkshops2021/</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/issamh.laradjissriccvworkshops2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Weakly Supervised Underwater Fish Segmentation Using Affinity LCFCN</title>
+      <link>https://servicenowresearch.netlify.app/publication/issamh.laradjiweaknaturesr2021/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/issamh.laradjiweaknaturesr2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stochastic polyak step-size for sgd: An adaptive learning rate for fast convergence</title>
+      <link>https://servicenowresearch.netlify.app/publication/nicolasloizoustocaistats2021/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/nicolasloizoustocaistats2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Counting Cows: Tracking Illegal Cattle RanchingFrom High-Resolution Satellite Imagery</title>
+      <link>https://servicenowresearch.netlify.app/publication/issamh.laradjicounneuripsworkshops2020/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/issamh.laradjicounneuripsworkshops2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CVPR 2020 Continual Learning in Computer Vision Competition: Approaches, Results, Current Challenges and Future Directions </title>
+      <link>https://servicenowresearch.netlify.app/publication/vincenzolomonacocvpraij2022/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/vincenzolomonacocvpraij2022/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Weakly Supervised Consistency-based Learning Method for COVID-19 Segmentation in CT Images</title>
+      <link>https://servicenowresearch.netlify.app/publication/issamh.laradjiaweawacv2021/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/issamh.laradjiaweawacv2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Synbols: Probing Learning Algorithms with Synthetic Datasets</title>
+      <link>https://servicenowresearch.netlify.app/publication/alexandrelacostesynbmais2018/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/alexandrelacostesynbmais2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Synbols: Probing Learning Algorithms with Synthetic Datasets</title>
+      <link>https://servicenowresearch.netlify.app/publication/alexandrelacostesynbneurips2020/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/alexandrelacostesynbneurips2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Embedding Propagation: Smoother Manifold for Few-Shot Classification</title>
+      <link>https://servicenowresearch.netlify.app/publication/paurodriguezembeeccv2020/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/paurodriguezembeeccv2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LOOC: Localize Overlapping Objects with Count Supervision</title>
+      <link>https://servicenowresearch.netlify.app/publication/issamh.laradjiloocicip2020/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/issamh.laradjiloocicip2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Proposal-based Instance Segmentation with Point Supervision</title>
+      <link>https://servicenowresearch.netlify.app/publication/issamh.laradjipropicip2020/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/issamh.laradjipropicip2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Online Fast Adaptation and Knowledge Accumulation: a New Approach to Continual Learning</title>
+      <link>https://servicenowresearch.netlify.app/publication/massimocacciaonlineurips2020/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/massimocacciaonlineurips2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A realistic fish-habitat dataset to evaluate algorithms for underwater visual analysis</title>
+      <link>https://servicenowresearch.netlify.app/publication/alzayatsalehareanaturesr2021/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/alzayatsalehareanaturesr2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Online Fast Adaptation and Knowledge Accumulation: a New Approach to Continual Learning</title>
+      <link>https://servicenowresearch.netlify.app/publication/massimocacciaonlicvprworkshops2020/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/massimocacciaonlicvprworkshops2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fast and Furious Convergence: Stochastic Second Order Methods under Interpolation</title>
+      <link>https://servicenowresearch.netlify.app/publication/siyimengfastaistats2020/</link>
+      <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/siyimengfastaistats2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Class-Based Styling: Real-time Localized Style Transfer with Semantic Segmentation</title>
+      <link>https://servicenowresearch.netlify.app/publication/lironnekurzmanclaswiml2019/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/lironnekurzmanclaswiml2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Painless Stochastic Gradient: Interpolation, Line-Search, and Convergence Rates</title>
+      <link>https://servicenowresearch.netlify.app/publication/sharanvaswanipainneurips2019/</link>
+      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/sharanvaswanipainneurips2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Where are the Masks: Instance Segmentation with Image-level Supervision </title>
+      <link>https://servicenowresearch.netlify.app/publication/issamh.laradjiwherbmvc2019/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/issamh.laradjiwherbmvc2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Class-Based Styling: Real-time Localized Style Transfer with Semantic Segmentation</title>
+      <link>https://servicenowresearch.netlify.app/publication/lironnekurzmanclasiccvworkshops2019/</link>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/lironnekurzmanclasiccvworkshops2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning Data Augmentation with Online Bilevel Optimization for Image Classification</title>
+      <link>https://servicenowresearch.netlify.app/publication/saypraseuthmounsavenglearwacv2021/</link>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/saypraseuthmounsavenglearwacv2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Efficient Deep Gaussian Process Models for Variable-Sized Inputs</title>
+      <link>https://servicenowresearch.netlify.app/publication/issamh.laradjieffiijcnn2019/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/issamh.laradjieffiijcnn2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Where are the Blobs: Counting by Localization with Point Supervision</title>
+      <link>https://servicenowresearch.netlify.app/publication/issamh.laradjiwhereccv2018/</link>
+      <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/issamh.laradjiwhereccv2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Class-Based Styling: Real-time Localized Style Transfer with Semantic Segmentation</title>
+      <link>https://servicenowresearch.netlify.app/publication/lironnekurzmanclasiclrworkshops2018/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/lironnekurzmanclasiclrworkshops2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

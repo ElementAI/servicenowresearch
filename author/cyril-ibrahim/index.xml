@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cyril Ibrahim | ServiceNow Research</title>
+    <link>https://servicenowresearch.netlify.app/author/cyril-ibrahim/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/author/cyril-ibrahim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cyril Ibrahim</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/author/cyril-ibrahim/avatar_hu08973e262aa9425a9b82c93e6902d6c6_135263_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Cyril Ibrahim</title>
+      <link>https://servicenowresearch.netlify.app/author/cyril-ibrahim/</link>
+    </image>
+    
+    <item>
+      <title>Finding and Visualizing Weaknesses of Deep Reinforcement Learning Agents</title>
+      <link>https://servicenowresearch.netlify.app/publication/christianrupprechtfindiclr2020/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/christianrupprechtfindiclr2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Planning with Latent SImulated Trajectories</title>
+      <link>https://servicenowresearch.netlify.app/publication/alexandrepicheplaniclrworkshops2019/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/alexandrepicheplaniclrworkshops2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Planning with Sequential Monte Carlo</title>
+      <link>https://servicenowresearch.netlify.app/publication/alexandrepicheprobiclr2019/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/alexandrepicheprobiclr2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Touch-based Curiosity for Sparse-Reward Tasks</title>
+      <link>https://servicenowresearch.netlify.app/publication/sairajeswartouccorl2021/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/sairajeswartouccorl2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

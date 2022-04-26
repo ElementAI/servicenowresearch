@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Causality | ServiceNow Research</title>
+    <link>https://servicenowresearch.netlify.app/tag/causality/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/tag/causality/index.xml" rel="self" type="application/rss+xml" />
+    <description>Causality</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <title>Causality</title>
+      <link>https://servicenowresearch.netlify.app/tag/causality/</link>
+    </image>
+    
+    <item>
+      <title>Deconfounding Dynamic Treatment Regimes</title>
+      <link>https://servicenowresearch.netlify.app/publication/davidbergerdecossc2022/</link>
+      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/davidbergerdecossc2022/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Typing assumptions improve identification in causal discovery - Report and comments on future directions</title>
+      <link>https://servicenowresearch.netlify.app/publication/philippebrouillardtypineurips2021/</link>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/philippebrouillardtypineurips2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Typing assumptions improve identification in causal discovery - theory and algorithms</title>
+      <link>https://servicenowresearch.netlify.app/publication/philippebrouillardtypiclear2022/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/philippebrouillardtypiclear2022/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Typing assumptions improve identification in causal discovery</title>
+      <link>https://servicenowresearch.netlify.app/publication/philippebrouillardtypiicml2021/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/philippebrouillardtypiicml2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Differentiable Causal Discovery from Interventional Data</title>
+      <link>https://servicenowresearch.netlify.app/publication/philippebrouillarddiffneurips2020/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/philippebrouillarddiffneurips2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gradient-Based Neural DAG Learning with Interventions</title>
+      <link>https://servicenowresearch.netlify.app/publication/philippebrouillardgradiclrworkshops2020/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/philippebrouillardgradiclrworkshops2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms</title>
+      <link>https://servicenowresearch.netlify.app/publication/yoshuabengioameticlr2020/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/yoshuabengioameticlr2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Systematic Evaluation of Causal Discovery in Visual Model Based Reinforcement Learning</title>
+      <link>https://servicenowresearch.netlify.app/publication/nanrosemarykesystneurips2021/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/nanrosemarykesystneurips2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

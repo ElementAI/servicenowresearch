@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dzmitry Bahdanau | ServiceNow Research</title>
+    <link>https://servicenowresearch.netlify.app/author/dzmitry-bahdanau/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/author/dzmitry-bahdanau/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dzmitry Bahdanau</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/author/dzmitry-bahdanau/avatar_hu0178f5bbcb23ddbff8a50b9de432696a_428196_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Dzmitry Bahdanau</title>
+      <link>https://servicenowresearch.netlify.app/author/dzmitry-bahdanau/</link>
+    </image>
+    
+    <item>
+      <title>Compositional Generalization in Dependency Parsing</title>
+      <link>https://servicenowresearch.netlify.app/publication/emilygoodwincompacl2022/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/emilygoodwincompacl2022/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Augmentation for Intent Classification with Off-the-shelf Large Language Models</title>
+      <link>https://servicenowresearch.netlify.app/publication/gauravsahudataaclworkshops2022/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/gauravsahudataaclworkshops2022/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LAGr: Labeling Aligned Graphs for Improving Systematic Generalization in Semantic Parsing</title>
+      <link>https://servicenowresearch.netlify.app/publication/dorajamborlagracl2022/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/dorajamborlagracl2022/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Systematic Generalization with Edge Transformers</title>
+      <link>https://servicenowresearch.netlify.app/publication/leonbergensystneurips2021/</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/leonbergensystneurips2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Picard: Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models</title>
+      <link>https://servicenowresearch.netlify.app/publication/torstenscholakpicaemnlp2021/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/torstenscholakpicaemnlp2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DuoRAT: Towards Simpler Text-to-SQL Models</title>
+      <link>https://servicenowresearch.netlify.app/publication/torstenscholakduornaacl2021/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/torstenscholakduornaacl2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding by Understanding Not: Modeling Negation in Language Models</title>
+      <link>https://servicenowresearch.netlify.app/publication/arianhosseiniundenaacl2021/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/arianhosseiniundenaacl2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CLOSURE: Assessing Systematic Generalization of CLEVR models</title>
+      <link>https://servicenowresearch.netlify.app/publication/dzmitrybahdanauclosneuripsworkshops2019/</link>
+      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/dzmitrybahdanauclosneuripsworkshops2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BabyAI: A Platform to Study the Sample Efficiency of Grounded Language Learning</title>
+      <link>https://servicenowresearch.netlify.app/publication/maximechevalier-boisvertbabyiclr2019/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/maximechevalier-boisvertbabyiclr2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Systematic Generalization: What Is Required and Can It Be Learned?</title>
+      <link>https://servicenowresearch.netlify.app/publication/dzmitrybahdanausysticlr2019/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/dzmitrybahdanausysticlr2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

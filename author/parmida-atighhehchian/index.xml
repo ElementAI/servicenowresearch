@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parmida Atighhehchian | ServiceNow Research</title>
+    <link>https://servicenowresearch.netlify.app/author/parmida-atighhehchian/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/author/parmida-atighhehchian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Parmida Atighhehchian</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/author/parmida-atighhehchian/avatar_hu20715c6e5a9b6f29c257ecf0c59796f2_65007_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Parmida Atighhehchian</title>
+      <link>https://servicenowresearch.netlify.app/author/parmida-atighhehchian/</link>
+    </image>
+    
+    <item>
+      <title>Data Augmentation for Intent Classification with Off-the-shelf Large Language Models</title>
+      <link>https://servicenowresearch.netlify.app/publication/gauravsahudataaclworkshops2022/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/gauravsahudataaclworkshops2022/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Can Active Learning Preemptively Mitigate Fairness Issues?</title>
+      <link>https://servicenowresearch.netlify.app/publication/fredericbranchaud-charroncanaiclrworkshops2021/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/fredericbranchaud-charroncanaiclrworkshops2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> Bayesian active learning for production, a systematic study and a reusable library</title>
+      <link>https://servicenowresearch.netlify.app/publication/parmidaatighhehchianbayeicmlworkshops2020/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/parmidaatighhehchianbayeicmlworkshops2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Synbols: Probing Learning Algorithms with Synthetic Datasets</title>
+      <link>https://servicenowresearch.netlify.app/publication/alexandrelacostesynbmais2018/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/alexandrelacostesynbmais2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Synbols: Probing Learning Algorithms with Synthetic Datasets</title>
+      <link>https://servicenowresearch.netlify.app/publication/alexandrelacostesynbneurips2020/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/alexandrelacostesynbneurips2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

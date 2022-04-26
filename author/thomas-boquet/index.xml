@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Boquet | ServiceNow Research</title>
+    <link>https://servicenowresearch.netlify.app/author/thomas-boquet/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/author/thomas-boquet/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas Boquet</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <title>Thomas Boquet</title>
+      <link>https://servicenowresearch.netlify.app/author/thomas-boquet/</link>
+    </image>
+    
+    <item>
+      <title>Reproducibility and Stability Analysis in Metric-Based Few-Shot Learning</title>
+      <link>https://servicenowresearch.netlify.app/publication/nathanschucherrepriclrworkshops2019/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/nathanschucherrepriclrworkshops2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fashion-Gen: The Generative Fashion Dataset and Challenge</title>
+      <link>https://servicenowresearch.netlify.app/publication/negarrostamzadehfashwiml2018/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/negarrostamzadehfashwiml2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fashion-Gen: The Generative Fashion Dataset and Challenge</title>
+      <link>https://servicenowresearch.netlify.app/publication/negarrostamzadehfashicmlworkshops2018/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/negarrostamzadehfashicmlworkshops2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Prior</title>
+      <link>https://servicenowresearch.netlify.app/publication/alexandrelacostedeepneuripsworkshops2017/</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/alexandrelacostedeepneuripsworkshops2017/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

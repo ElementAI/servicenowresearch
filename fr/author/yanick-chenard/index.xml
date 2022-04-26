@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yanick Chénard | ServiceNow Recherche</title>
+    <link>https://servicenowresearch.netlify.app/fr/author/yanick-chenard/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/fr/author/yanick-chenard/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yanick Chénard</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language>
+    <image>
+      <url>https://servicenowresearch.netlify.app/fr/author/yanick-chenard/avatar_hu3a255fbea29e3c532dcc5e3b0350f8a8_223218_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yanick Chénard</title>
+      <link>https://servicenowresearch.netlify.app/fr/author/yanick-chenard/</link>
+    </image>
+    
+  </channel>
+</rss>

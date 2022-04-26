@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tianyi Chen | ServiceNow Research</title>
+    <link>https://servicenowresearch.netlify.app/author/tianyi-chen/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/author/tianyi-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tianyi Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://servicenowresearch.netlify.app/author/tianyi-chen/avatar_hu90a89baec05025d09600f01a9be47e94_347631_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Tianyi Chen</title>
+      <link>https://servicenowresearch.netlify.app/author/tianyi-chen/</link>
+    </image>
+    
+  </channel>
+</rss>

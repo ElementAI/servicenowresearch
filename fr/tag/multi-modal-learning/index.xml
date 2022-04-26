@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multi-modal Learning | ServiceNow Recherche</title>
+    <link>https://servicenowresearch.netlify.app/fr/tag/multi-modal-learning/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/fr/tag/multi-modal-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multi-modal Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language><lastBuildDate>Thu, 23 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <title>Multi-modal Learning</title>
+      <link>https://servicenowresearch.netlify.app/fr/tag/multi-modal-learning/</link>
+    </image>
+    
+    <item>
+      <title>Adaptive Cross-Modal Few-shot Learning</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/chenxingadapneurips2019/</link>
+      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/chenxingadapneurips2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neural Multisensory Scene Inference</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/jaehyunlimneurneurips2019/</link>
+      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/jaehyunlimneurneurips2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BabyAI: A Platform to Study the Sample Efficiency of Grounded Language Learning</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/maximechevalier-boisvertbabyiclr2019/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/maximechevalier-boisvertbabyiclr2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Integrating Vision and Language in Social Networks for Identifying Visual Patterns of Personality Traits</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/paurodriguezinteijssh2019/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/paurodriguezinteijssh2019/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Touch-based Curiosity for Sparse-Reward Tasks</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/sairajeswartouccorl2021/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/sairajeswartouccorl2021/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

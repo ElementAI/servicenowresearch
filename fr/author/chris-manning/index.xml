@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Manning | ServiceNow Recherche</title>
+    <link>https://servicenowresearch.netlify.app/fr/author/chris-manning/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/fr/author/chris-manning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chris Manning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language>
+    <image>
+      <url>https://servicenowresearch.netlify.app/fr/author/chris-manning/avatar_hu5ae4e526e2babcbbbb3881b112919b89_110978_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Chris Manning</title>
+      <link>https://servicenowresearch.netlify.app/fr/author/chris-manning/</link>
+    </image>
+    
+  </channel>
+</rss>

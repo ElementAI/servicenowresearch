@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Generalization Guarranties | ServiceNow Recherche</title>
+    <link>https://servicenowresearch.netlify.app/fr/tag/generalization-guarranties/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/fr/tag/generalization-guarranties/index.xml" rel="self" type="application/rss+xml" />
+    <description>Generalization Guarranties</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language><lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <title>Generalization Guarranties</title>
+      <link>https://servicenowresearch.netlify.app/fr/tag/generalization-guarranties/</link>
+    </image>
+    
+    <item>
+      <title>In search of robust measures of generalization</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/gintarekarolinadziugaiteinseneurips2020/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/gintarekarolinadziugaiteinseneurips2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interpretable genotype-to-phenotype classifiers with performance guarantees</title>
+      <link>https://servicenowresearch.netlify.app/fr/publication/alexandredrouinintenaturesr2020/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/fr/publication/alexandredrouinintenaturesr2020/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

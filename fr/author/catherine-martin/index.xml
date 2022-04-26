@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Catherine Martin | ServiceNow Recherche</title>
+    <link>https://servicenowresearch.netlify.app/fr/author/catherine-martin/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/fr/author/catherine-martin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Catherine Martin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language>
+    <image>
+      <url>https://servicenowresearch.netlify.app/fr/author/catherine-martin/avatar_hu36937880d8631719f8a366c842ed38b6_9128_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Catherine Martin</title>
+      <link>https://servicenowresearch.netlify.app/fr/author/catherine-martin/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Krueger | ServiceNow Research</title>
+    <link>https://servicenowresearch.netlify.app/author/david-krueger/</link>
+      <atom:link href="https://servicenowresearch.netlify.app/author/david-krueger/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Krueger</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <title>David Krueger</title>
+      <link>https://servicenowresearch.netlify.app/author/david-krueger/</link>
+    </image>
+    
+    <item>
+      <title>Neural Autoregressive Flow</title>
+      <link>https://servicenowresearch.netlify.app/publication/chin-weihuangneuricml2018/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/chin-weihuangneuricml2018/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Hypernetworks</title>
+      <link>https://servicenowresearch.netlify.app/publication/davidkruegerbayeneuripsworkshops2017/</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/davidkruegerbayeneuripsworkshops2017/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Prior</title>
+      <link>https://servicenowresearch.netlify.app/publication/alexandrelacostedeepneuripsworkshops2017/</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://servicenowresearch.netlify.app/publication/alexandrelacostedeepneuripsworkshops2017/</guid>
+      <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

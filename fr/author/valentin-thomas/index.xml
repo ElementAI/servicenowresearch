@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Valentin Thomas | ServiceNow Recherche</title>
-    <link>https://servicenowresearch.netlify.app/fr/author/valentin-thomas/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/fr/author/valentin-thomas/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/fr/author/valentin-thomas/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/fr/author/valentin-thomas/index.xml" rel="self" type="application/rss+xml" />
     <description>Valentin Thomas</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language><lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <url>https://elementai.github.io/servicenowresearch/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
       <title>Valentin Thomas</title>
-      <link>https://servicenowresearch.netlify.app/fr/author/valentin-thomas/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/author/valentin-thomas/</link>
     </image>
     
     <item>
       <title>Planning with Latent SImulated Trajectories</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/alexandrepicheplaniclrworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/alexandrepicheplaniclrworkshops2019/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/alexandrepicheplaniclrworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/alexandrepicheplaniclrworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Probabilistic Planning with Sequential Monte Carlo</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/alexandrepicheprobiclr2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/alexandrepicheprobiclr2019/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/alexandrepicheprobiclr2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/alexandrepicheprobiclr2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Independently Controllable Factors</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/valentinthomasindearxiv2017/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/valentinthomasindearxiv2017/</link>
       <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/valentinthomasindearxiv2017/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/valentinthomasindearxiv2017/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Disentangling the independently controllable factors of variation by interacting with the world</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/valentinthomasdiseneuripsworkshops2017/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/valentinthomasdiseneuripsworkshops2017/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/valentinthomasdiseneuripsworkshops2017/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/valentinthomasdiseneuripsworkshops2017/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>

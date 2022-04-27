@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Amine El Hattami | ServiceNow Recherche</title>
-    <link>https://servicenowresearch.netlify.app/fr/author/amine-el-hattami/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/fr/author/amine-el-hattami/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/fr/author/amine-el-hattami/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/fr/author/amine-el-hattami/index.xml" rel="self" type="application/rss+xml" />
     <description>Amine El Hattami</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/fr/author/amine-el-hattami/avatar_hu10af1e569517c621936381c78cf8bfb6_88547_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://elementai.github.io/servicenowresearch/fr/author/amine-el-hattami/avatar_hu10af1e569517c621936381c78cf8bfb6_88547_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Amine El Hattami</title>
-      <link>https://servicenowresearch.netlify.app/fr/author/amine-el-hattami/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/author/amine-el-hattami/</link>
     </image>
     
     <item>
       <title>Conditionally Adaptive Multi-Task Learning: Improving Transfer Learning in NLP Using Fewer Parameters &amp; Less Data</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/jonathanpilaultcondiclr2021/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/jonathanpilaultcondiclr2021/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/jonathanpilaultcondiclr2021/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/jonathanpilaultcondiclr2021/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>

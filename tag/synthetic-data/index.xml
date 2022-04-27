@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Synthetic Data | ServiceNow Research</title>
-    <link>https://servicenowresearch.netlify.app/tag/synthetic-data/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/tag/synthetic-data/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/tag/synthetic-data/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/tag/synthetic-data/index.xml" rel="self" type="application/rss+xml" />
     <description>Synthetic Data</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <url>https://elementai.github.io/servicenowresearch/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
       <title>Synthetic Data</title>
-      <link>https://servicenowresearch.netlify.app/tag/synthetic-data/</link>
+      <link>https://elementai.github.io/servicenowresearch/tag/synthetic-data/</link>
     </image>
     
     <item>
       <title>Kubric: A scalable dataset generator</title>
-      <link>https://servicenowresearch.netlify.app/publication/klausgreffkubrcvpr2022/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/klausgreffkubrcvpr2022/</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/klausgreffkubrcvpr2022/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/klausgreffkubrcvpr2022/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>SEVN: A Sidewalk Simulation Environment for Visual Navigation</title>
-      <link>https://servicenowresearch.netlify.app/publication/martinweisssevncorl2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/martinweisssevncorl2019/</link>
       <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/martinweisssevncorl2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/martinweisssevncorl2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Learning to Remove Rain in Traffic Surveillance by Using Synthetic Data</title>
-      <link>https://servicenowresearch.netlify.app/publication/chrish.bahnsenlearvisigrapp2018/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/chrish.bahnsenlearvisigrapp2018/</link>
       <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/chrish.bahnsenlearvisigrapp2018/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/chrish.bahnsenlearvisigrapp2018/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>

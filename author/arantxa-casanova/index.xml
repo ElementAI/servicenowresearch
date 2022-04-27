@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arantxa Casanova | ServiceNow Research</title>
-    <link>https://servicenowresearch.netlify.app/author/arantxa-casanova/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/author/arantxa-casanova/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/author/arantxa-casanova/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/author/arantxa-casanova/index.xml" rel="self" type="application/rss+xml" />
     <description>Arantxa Casanova</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <url>https://elementai.github.io/servicenowresearch/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
       <title>Arantxa Casanova</title>
-      <link>https://servicenowresearch.netlify.app/author/arantxa-casanova/</link>
+      <link>https://elementai.github.io/servicenowresearch/author/arantxa-casanova/</link>
     </image>
     
     <item>
       <title>Reinforced Active Learning for Image Segmentation</title>
-      <link>https://servicenowresearch.netlify.app/publication/arantxacasanovareiniclr2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/arantxacasanovareiniclr2020/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/arantxacasanovareiniclr2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/arantxacasanovareiniclr2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>

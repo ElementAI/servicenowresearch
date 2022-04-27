@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Super-Resolution | ServiceNow Recherche</title>
-    <link>https://servicenowresearch.netlify.app/fr/tag/super-resolution/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/fr/tag/super-resolution/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/fr/tag/super-resolution/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/fr/tag/super-resolution/index.xml" rel="self" type="application/rss+xml" />
     <description>Super-Resolution</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language><lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <url>https://elementai.github.io/servicenowresearch/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
       <title>Super-Resolution</title>
-      <link>https://servicenowresearch.netlify.app/fr/tag/super-resolution/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/tag/super-resolution/</link>
     </image>
     
     <item>
       <title>Overnet: Lightweight multi-scale super-resolution with overscaling network</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/parichehrbehjatioverwacv2021/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/parichehrbehjatioverwacv2021/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/parichehrbehjatioverwacv2021/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/parichehrbehjatioverwacv2021/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>

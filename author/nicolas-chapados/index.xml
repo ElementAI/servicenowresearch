@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nicolas Chapados | ServiceNow Research</title>
-    <link>https://servicenowresearch.netlify.app/author/nicolas-chapados/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/author/nicolas-chapados/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/author/nicolas-chapados/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/author/nicolas-chapados/index.xml" rel="self" type="application/rss+xml" />
     <description>Nicolas Chapados</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/author/nicolas-chapados/avatar_hu40496df6166093fec0ba1f952ae1b315_42629_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://elementai.github.io/servicenowresearch/author/nicolas-chapados/avatar_hu40496df6166093fec0ba1f952ae1b315_42629_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Nicolas Chapados</title>
-      <link>https://servicenowresearch.netlify.app/author/nicolas-chapados/</link>
+      <link>https://elementai.github.io/servicenowresearch/author/nicolas-chapados/</link>
     </image>
     
     <item>
       <title>Meta-Learning Framework with Applications to Zero-Shot Time Series Forecasting</title>
-      <link>https://servicenowresearch.netlify.app/publication/borisn.oreshkinmetaiclr2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/borisn.oreshkinmetaiclr2019/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/borisn.oreshkinmetaiclr2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/borisn.oreshkinmetaiclr2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>

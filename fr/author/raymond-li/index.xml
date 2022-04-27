@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Raymond Li | ServiceNow Recherche</title>
-    <link>https://servicenowresearch.netlify.app/fr/author/raymond-li/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/fr/author/raymond-li/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/fr/author/raymond-li/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/fr/author/raymond-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Raymond Li</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language><lastBuildDate>Wed, 06 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/fr/author/raymond-li/avatar_hubc88058d94f0dc7a21a68d36445c835a_69153_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://elementai.github.io/servicenowresearch/fr/author/raymond-li/avatar_hubc88058d94f0dc7a21a68d36445c835a_69153_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Raymond Li</title>
-      <link>https://servicenowresearch.netlify.app/fr/author/raymond-li/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/author/raymond-li/</link>
     </image>
     
     <item>
       <title>DuoRAT: Towards Simpler Text-to-SQL Models</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/torstenscholakduornaacl2021/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/torstenscholakduornaacl2021/</link>
       <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/torstenscholakduornaacl2021/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/torstenscholakduornaacl2021/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>On Extractive and Abstractive Neural Document Summarization with Transformer Language Models</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/sandeepsubramanianonexemnlp2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/sandeepsubramanianonexemnlp2020/</link>
       <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/sandeepsubramanianonexemnlp2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/sandeepsubramanianonexemnlp2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Towards Deep Conversational Recommendations</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/raymondlitowaneurips2018/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/raymondlitowaneurips2018/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/raymondlitowaneurips2018/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/raymondlitowaneurips2018/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>

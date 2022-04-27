@@ -2,201 +2,201 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aaron Courville | ServiceNow Recherche</title>
-    <link>https://servicenowresearch.netlify.app/fr/author/aaron-courville/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/fr/author/aaron-courville/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/fr/author/aaron-courville/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/fr/author/aaron-courville/index.xml" rel="self" type="application/rss+xml" />
     <description>Aaron Courville</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language><lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <url>https://elementai.github.io/servicenowresearch/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
       <title>Aaron Courville</title>
-      <link>https://servicenowresearch.netlify.app/fr/author/aaron-courville/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/author/aaron-courville/</link>
     </image>
     
     <item>
       <title>VIM: Variational Independent Modules for Video Prediction</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/rimassouelvimclear2022/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/rimassouelvimclear2022/</link>
       <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/rimassouelvimclear2022/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/rimassouelvimclear2022/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Multi-label Iterated Learning for Image Classification with Label Ambiguity</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/sairajeswarmudumbamultcvpr2022/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/sairajeswarmudumbamultcvpr2022/</link>
       <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/sairajeswarmudumbamultcvpr2022/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/sairajeswarmudumbamultcvpr2022/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Generative Compositional Augmentations for Scene Graph Prediction</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/borisknyazevgeneiccv2021/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/borisknyazevgeneiccv2021/</link>
       <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/borisknyazevgeneiccv2021/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/borisknyazevgeneiccv2021/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Understanding by Understanding Not: Modeling Negation in Language Models</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/arianhosseiniundenaacl2021/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/arianhosseiniundenaacl2021/</link>
       <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/arianhosseiniundenaacl2021/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/arianhosseiniundenaacl2021/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Graph-Density Aware Losses for Novel Compositions in Scene Graph Generation</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/borisknyazevgrapbmvc2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/borisknyazevgrapbmvc2020/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/borisknyazevgrapbmvc2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/borisknyazevgrapbmvc2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Unsupervised Learning of Dense Visual Representations</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/pedroo.pinheirounsuneurips2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/pedroo.pinheirounsuneurips2020/</link>
       <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/pedroo.pinheirounsuneurips2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/pedroo.pinheirounsuneurips2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AR-DAE: Towards Unbiased Neural Entropy Gradient Estimation</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/jaehyunlimar-dicml2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/jaehyunlimar-dicml2020/</link>
       <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/jaehyunlimar-dicml2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/jaehyunlimar-dicml2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Stochastic Neural Network with Kronecker Flow</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/chin-weihuangstocaistats2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/chin-weihuangstocaistats2020/</link>
       <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/chin-weihuangstocaistats2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/chin-weihuangstocaistats2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Adversarial Computation of Optimal Transport Maps</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/jacobleygonieadvearxiv2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/jacobleygonieadvearxiv2019/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/jacobleygonieadvearxiv2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/jacobleygonieadvearxiv2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>CLOSURE: Assessing Systematic Generalization of CLEVR models</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/dzmitrybahdanauclosneuripsworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/dzmitrybahdanauclosneuripsworkshops2019/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/dzmitrybahdanauclosneuripsworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/dzmitrybahdanauclosneuripsworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Pix2Shape: Towards Unsupervised Learning of 3D Scenesfrom Images using a View-based Representation</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/sairajeswarmudumbapix2ijcv2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/sairajeswarmudumbapix2ijcv2020/</link>
       <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/sairajeswarmudumbapix2ijcv2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/sairajeswarmudumbapix2ijcv2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hierarchical Importance Weighted Autoencoders</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/chin-weihuanghiericml2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/chin-weihuanghiericml2019/</link>
       <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/chin-weihuanghiericml2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/chin-weihuanghiericml2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Stochastic Neural Network with Kronecker Flow</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/chin-weihuangstocicmlworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/chin-weihuangstocicmlworkshops2019/</link>
       <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/chin-weihuangstocicmlworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/chin-weihuangstocicmlworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>On Difficulties of Probability Distillation</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/chin-weihuangondiiclr2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/chin-weihuangondiiclr2019/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/chin-weihuangondiiclr2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/chin-weihuangondiiclr2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Systematic Generalization: What Is Required and Can It Be Learned?</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/dzmitrybahdanausysticlr2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/dzmitrybahdanausysticlr2019/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/dzmitrybahdanausysticlr2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/dzmitrybahdanausysticlr2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Improving Explorability in Variational Inference with Annealed Variational Objectives</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/chin-weihuangimprneurips2018/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/chin-weihuangimprneurips2018/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/chin-weihuangimprneurips2018/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/chin-weihuangimprneurips2018/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Towards Text Generation with Adversarially Learned Neural Outlines</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/sandeepsubramaniantowaneurips2018/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/sandeepsubramaniantowaneurips2018/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/sandeepsubramaniantowaneurips2018/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/sandeepsubramaniantowaneurips2018/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hierarchical Adversarially Learned Inference</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/ishmaelbelghazihiericmlworkshops2018/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/ishmaelbelghazihiericmlworkshops2018/</link>
       <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/ishmaelbelghazihiericmlworkshops2018/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/ishmaelbelghazihiericmlworkshops2018/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Neural Autoregressive Flow</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/chin-weihuangneuricml2018/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/chin-weihuangneuricml2018/</link>
       <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/chin-weihuangneuricml2018/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/chin-weihuangneuricml2018/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bayesian Hypernetworks</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/davidkruegerbayeneuripsworkshops2017/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/davidkruegerbayeneuripsworkshops2017/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/davidkruegerbayeneuripsworkshops2017/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/davidkruegerbayeneuripsworkshops2017/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Touch-based Curiosity for Sparse-Reward Tasks</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/sairajeswartouccorl2021/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/sairajeswartouccorl2021/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/sairajeswartouccorl2021/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/sairajeswartouccorl2021/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>

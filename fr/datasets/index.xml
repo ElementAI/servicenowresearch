@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Datasets | ServiceNow Recherche</title>
-    <link>https://servicenowresearch.netlify.app/fr/datasets/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/fr/datasets/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/fr/datasets/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/fr/datasets/index.xml" rel="self" type="application/rss+xml" />
     <description>Datasets</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language><lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <url>https://elementai.github.io/servicenowresearch/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
       <title>Datasets</title>
-      <link>https://servicenowresearch.netlify.app/fr/datasets/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/datasets/</link>
     </image>
     
     <item>
       <title>SeCo: Seasonal Contrast Remote Sensing Dataset</title>
-      <link>https://servicenowresearch.netlify.app/fr/datasets/seco-seasonal-c/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/datasets/seco-seasonal-c/</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/datasets/seco-seasonal-c/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/datasets/seco-seasonal-c/</guid>
       <description>&lt;p&gt;&amp;lsquo;The SeCo dataset is collected from Sentinel-2 with a principled procedure to
 gather large-scale, unlabeled, and uncurated remote sensing datasets containing
 images from multiple Earth locations at different timestamps.&lt;/p&gt;
@@ -26,9 +26,9 @@ images from multiple Earth locations at different timestamps.&lt;/p&gt;
     
     <item>
       <title>Fashion-Gen: the generative fashion dataset</title>
-      <link>https://servicenowresearch.netlify.app/fr/datasets/fashion-gen-the/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/datasets/fashion-gen-the/</link>
       <pubDate>Tue, 09 Jan 0007 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/datasets/fashion-gen-the/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/datasets/fashion-gen-the/</guid>
       <description>&lt;p&gt;&amp;lsquo;The Fashion-Gen dataset includes 293,008 high-definition fashion images paired
 with item descriptions provided by professional stylists from the fashion design
 domain. It provides an excellent public benchmark for research exploring state-of-the-art

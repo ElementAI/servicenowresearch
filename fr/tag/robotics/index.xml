@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robotics | ServiceNow Recherche</title>
-    <link>https://servicenowresearch.netlify.app/fr/tag/robotics/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/fr/tag/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/fr/tag/robotics/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/fr/tag/robotics/index.xml" rel="self" type="application/rss+xml" />
     <description>Robotics</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language><lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <url>https://elementai.github.io/servicenowresearch/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
       <title>Robotics</title>
-      <link>https://servicenowresearch.netlify.app/fr/tag/robotics/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/tag/robotics/</link>
     </image>
     
     <item>
       <title>Latent Variable Sequential Set Transformers for Joint Multi-Agent Motion Prediction</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/rogergirgislateiclr2022/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/rogergirgislateiclr2022/</link>
       <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/rogergirgislateiclr2022/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/rogergirgislateiclr2022/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Investigating Trust Factors in Human-Robot Shared Control: Implicit Gender Bias Around Robot Voice</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/alexanderwonginvecrv2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/alexanderwonginvecrv2019/</link>
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/alexanderwonginvecrv2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/alexanderwonginvecrv2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Efficient Multi-Robot Coverage of a Known Environment</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/narekarapetyaneffiiros2017/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/narekarapetyaneffiiros2017/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/narekarapetyaneffiiros2017/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/narekarapetyaneffiiros2017/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Underwater Multi-Robot Convoying using Visual Tracking by Detection</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/florianshkurtiundeiros2017/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/florianshkurtiundeiros2017/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/florianshkurtiundeiros2017/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/florianshkurtiundeiros2017/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Deep learning for electromyographic hand gesture signal classification using transfer learning</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/ulyssecote-allarddeepieeensre2018/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/ulyssecote-allarddeepieeensre2018/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/ulyssecote-allarddeepieeensre2018/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/ulyssecote-allarddeepieeensre2018/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>

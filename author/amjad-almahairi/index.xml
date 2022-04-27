@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Amjad Almahairi | ServiceNow Research</title>
-    <link>https://servicenowresearch.netlify.app/author/amjad-almahairi/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/author/amjad-almahairi/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/author/amjad-almahairi/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/author/amjad-almahairi/index.xml" rel="self" type="application/rss+xml" />
     <description>Amjad Almahairi</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <url>https://elementai.github.io/servicenowresearch/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
       <title>Amjad Almahairi</title>
-      <link>https://servicenowresearch.netlify.app/author/amjad-almahairi/</link>
+      <link>https://elementai.github.io/servicenowresearch/author/amjad-almahairi/</link>
     </image>
     
     <item>
       <title>Unsupervised Learning of Dense Visual Representations</title>
-      <link>https://servicenowresearch.netlify.app/publication/pedroo.pinheirounsuneurips2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/pedroo.pinheirounsuneurips2020/</link>
       <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/pedroo.pinheirounsuneurips2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/pedroo.pinheirounsuneurips2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Closer Look at the Optimization Landscapes of Generative Adversarial Networks</title>
-      <link>https://servicenowresearch.netlify.app/publication/hugoberardacloiclr2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/hugoberardacloiclr2020/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/hugoberardacloiclr2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/hugoberardacloiclr2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Adversarial Computation of Optimal Transport Maps</title>
-      <link>https://servicenowresearch.netlify.app/publication/jacobleygonieadvearxiv2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/jacobleygonieadvearxiv2019/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/jacobleygonieadvearxiv2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/jacobleygonieadvearxiv2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Impact of Preprocessing on Arabic-English Statistical and Neural Machine Translation</title>
-      <link>https://servicenowresearch.netlify.app/publication/maioudahtheimtsummit2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/maioudahtheimtsummit2019/</link>
       <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/maioudahtheimtsummit2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/maioudahtheimtsummit2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>

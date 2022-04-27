@@ -2,111 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adversarial Learning | ServiceNow Research</title>
-    <link>https://servicenowresearch.netlify.app/tag/adversarial-learning/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/tag/adversarial-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/tag/adversarial-learning/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/tag/adversarial-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Adversarial Learning</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <url>https://elementai.github.io/servicenowresearch/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
       <title>Adversarial Learning</title>
-      <link>https://servicenowresearch.netlify.app/tag/adversarial-learning/</link>
+      <link>https://elementai.github.io/servicenowresearch/tag/adversarial-learning/</link>
     </image>
     
     <item>
       <title>Adversarial Computation of Optimal Transport Maps</title>
-      <link>https://servicenowresearch.netlify.app/publication/jacobleygonieadvearxiv2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/jacobleygonieadvearxiv2019/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/jacobleygonieadvearxiv2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/jacobleygonieadvearxiv2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Adversarial Functionality-Preserving Training in the Malware Domain</title>
-      <link>https://servicenowresearch.netlify.app/publication/ousmaneamadoudiaadveneuripsworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/ousmaneamadoudiaadveneuripsworkshops2019/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/ousmaneamadoudiaadveneuripsworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/ousmaneamadoudiaadveneuripsworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>On Adversarial Mixup Resynthesis</title>
-      <link>https://servicenowresearch.netlify.app/publication/christopherbeckhamonadneurips2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/christopherbeckhamonadneurips2019/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/christopherbeckhamonadneurips2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/christopherbeckhamonadneurips2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Physical Adversarial Textures that Fool Visual Object Tracking</title>
-      <link>https://servicenowresearch.netlify.app/publication/reyrezawiyatnophysiccv2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/reyrezawiyatnophysiccv2019/</link>
       <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/reyrezawiyatnophysiccv2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/reyrezawiyatnophysiccv2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Semantics Preserving Adversarial Learning</title>
-      <link>https://servicenowresearch.netlify.app/publication/ousmaneamadoudiasemaarxiv2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/ousmaneamadoudiasemaarxiv2019/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/ousmaneamadoudiasemaarxiv2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/ousmaneamadoudiasemaarxiv2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Adversarially-Trained Normalized Noisy-Feature Auto-Encoder for Text Generation</title>
-      <link>https://servicenowresearch.netlify.app/publication/xiangzhangadvearxiv2018/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/xiangzhangadvearxiv2018/</link>
       <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/xiangzhangadvearxiv2018/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/xiangzhangadvearxiv2018/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Adversarial Learning of General Transformations for Data Augmentation</title>
-      <link>https://servicenowresearch.netlify.app/publication/saypraseuthmounsavengadveiclrworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/saypraseuthmounsavengadveiclrworkshops2019/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/saypraseuthmounsavengadveiclrworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/saypraseuthmounsavengadveiclrworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Adversarial Mixup Resynthesizers</title>
-      <link>https://servicenowresearch.netlify.app/publication/christopherbeckhamadveiclrworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/christopherbeckhamadveiclrworkshops2019/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/christopherbeckhamadveiclrworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/christopherbeckhamadveiclrworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Adversarial Framing for Image and Video Classification</title>
-      <link>https://servicenowresearch.netlify.app/publication/konradzolnaadveaaaistudentabstract2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/konradzolnaadveaaaistudentabstract2019/</link>
       <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/konradzolnaadveaaaistudentabstract2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/konradzolnaadveaaaistudentabstract2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Towards Text Generation with Adversarially Learned Neural Outlines</title>
-      <link>https://servicenowresearch.netlify.app/publication/sandeepsubramaniantowaneurips2018/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/sandeepsubramaniantowaneurips2018/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/sandeepsubramaniantowaneurips2018/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/sandeepsubramaniantowaneurips2018/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hierarchical Adversarially Learned Inference</title>
-      <link>https://servicenowresearch.netlify.app/publication/ishmaelbelghazihiericmlworkshops2018/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/ishmaelbelghazihiericmlworkshops2018/</link>
       <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/ishmaelbelghazihiericmlworkshops2018/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/ishmaelbelghazihiericmlworkshops2018/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ankit Vani | ServiceNow Recherche</title>
-    <link>https://servicenowresearch.netlify.app/fr/author/ankit-vani/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/fr/author/ankit-vani/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/fr/author/ankit-vani/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/fr/author/ankit-vani/index.xml" rel="self" type="application/rss+xml" />
     <description>Ankit Vani</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language>
     <image>
-      <url>https://servicenowresearch.netlify.app/fr/author/ankit-vani/avatar_huf32df7d36a9a6cee06e2763df0fb9db1_43596_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://elementai.github.io/servicenowresearch/fr/author/ankit-vani/avatar_huf32df7d36a9a6cee06e2763df0fb9db1_43596_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Ankit Vani</title>
-      <link>https://servicenowresearch.netlify.app/fr/author/ankit-vani/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/author/ankit-vani/</link>
     </image>
     
   </channel>

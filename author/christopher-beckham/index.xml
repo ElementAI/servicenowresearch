@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christopher Beckham | ServiceNow Research</title>
-    <link>https://servicenowresearch.netlify.app/author/christopher-beckham/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/author/christopher-beckham/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/author/christopher-beckham/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/author/christopher-beckham/index.xml" rel="self" type="application/rss+xml" />
     <description>Christopher Beckham</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/author/christopher-beckham/avatar_hu9268854890eed912565aa169c7ea38fd_37274_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://elementai.github.io/servicenowresearch/author/christopher-beckham/avatar_hu9268854890eed912565aa169c7ea38fd_37274_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Christopher Beckham</title>
-      <link>https://servicenowresearch.netlify.app/author/christopher-beckham/</link>
+      <link>https://elementai.github.io/servicenowresearch/author/christopher-beckham/</link>
     </image>
     
     <item>
       <title>On Adversarial Mixup Resynthesis</title>
-      <link>https://servicenowresearch.netlify.app/publication/christopherbeckhamonadneurips2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/christopherbeckhamonadneurips2019/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/christopherbeckhamonadneurips2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/christopherbeckhamonadneurips2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Adversarial Mixup Resynthesizers</title>
-      <link>https://servicenowresearch.netlify.app/publication/christopherbeckhamadveiclrworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/christopherbeckhamadveiclrworkshops2019/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/christopherbeckhamadveiclrworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/christopherbeckhamadveiclrworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Unsupervised Depth Estimation, 3D Face Rotation and Replacement</title>
-      <link>https://servicenowresearch.netlify.app/publication/joelrubenantonymonizunsuneurips2018/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/joelrubenantonymonizunsuneurips2018/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/joelrubenantonymonizunsuneurips2018/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/joelrubenantonymonizunsuneurips2018/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>

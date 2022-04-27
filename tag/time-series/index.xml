@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Time Series | ServiceNow Research</title>
-    <link>https://servicenowresearch.netlify.app/tag/time-series/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/tag/time-series/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/tag/time-series/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/tag/time-series/index.xml" rel="self" type="application/rss+xml" />
     <description>Time Series</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <url>https://elementai.github.io/servicenowresearch/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
       <title>Time Series</title>
-      <link>https://servicenowresearch.netlify.app/tag/time-series/</link>
+      <link>https://elementai.github.io/servicenowresearch/tag/time-series/</link>
     </image>
     
     <item>
       <title>Deconfounding Dynamic Treatment Regimes</title>
-      <link>https://servicenowresearch.netlify.app/publication/davidbergerdecossc2022/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/davidbergerdecossc2022/</link>
       <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/davidbergerdecossc2022/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/davidbergerdecossc2022/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Meta-Learning Framework with Applications to Zero-Shot Time Series Forecasting</title>
-      <link>https://servicenowresearch.netlify.app/publication/borisn.oreshkinmetaiclr2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/borisn.oreshkinmetaiclr2019/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/borisn.oreshkinmetaiclr2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/borisn.oreshkinmetaiclr2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>

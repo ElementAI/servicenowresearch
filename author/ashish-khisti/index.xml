@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ashish Khisti | ServiceNow Research</title>
-    <link>https://servicenowresearch.netlify.app/author/ashish-khisti/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/author/ashish-khisti/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/author/ashish-khisti/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/author/ashish-khisti/index.xml" rel="self" type="application/rss+xml" />
     <description>Ashish Khisti</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <url>https://elementai.github.io/servicenowresearch/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
       <title>Ashish Khisti</title>
-      <link>https://servicenowresearch.netlify.app/author/ashish-khisti/</link>
+      <link>https://elementai.github.io/servicenowresearch/author/ashish-khisti/</link>
     </image>
     
     <item>
       <title>Information-Theoretic Generalization Bounds for SGLD via Data-Dependent Estimates</title>
-      <link>https://servicenowresearch.netlify.app/publication/jeffreynegreainfoneurips2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/jeffreynegreainfoneurips2019/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/jeffreynegreainfoneurips2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/jeffreynegreainfoneurips2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Information-Theoretic Generalization Bounds for SGLD via Data-Dependent Estimates</title>
-      <link>https://servicenowresearch.netlify.app/publication/jeffreynegreainfoicmlworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/jeffreynegreainfoicmlworkshops2019/</link>
       <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/jeffreynegreainfoicmlworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/jeffreynegreainfoicmlworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sharpened Generalization Bounds based on Conditional Mutual Information and an Application to Noisy-Gradient Iterative Algorithms</title>
-      <link>https://servicenowresearch.netlify.app/publication/mahdihaghifamsharneurips2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/mahdihaghifamsharneurips2020/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/mahdihaghifamsharneurips2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/mahdihaghifamsharneurips2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>

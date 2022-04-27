@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ismail Ben Ayed | ServiceNow Research</title>
-    <link>https://servicenowresearch.netlify.app/author/ismail-ben-ayed/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/author/ismail-ben-ayed/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/author/ismail-ben-ayed/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/author/ismail-ben-ayed/index.xml" rel="self" type="application/rss+xml" />
     <description>Ismail Ben Ayed</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <url>https://elementai.github.io/servicenowresearch/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
       <title>Ismail Ben Ayed</title>
-      <link>https://servicenowresearch.netlify.app/author/ismail-ben-ayed/</link>
+      <link>https://elementai.github.io/servicenowresearch/author/ismail-ben-ayed/</link>
     </image>
     
     <item>
       <title>Learning Data Augmentation with Online Bilevel Optimization for Image Classification</title>
-      <link>https://servicenowresearch.netlify.app/publication/saypraseuthmounsavenglearwacv2021/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/saypraseuthmounsavenglearwacv2021/</link>
       <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/saypraseuthmounsavenglearwacv2021/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/saypraseuthmounsavenglearwacv2021/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Adversarial Learning of General Transformations for Data Augmentation</title>
-      <link>https://servicenowresearch.netlify.app/publication/saypraseuthmounsavengadveiclrworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/saypraseuthmounsavengadveiclrworkshops2019/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/saypraseuthmounsavengadveiclrworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/saypraseuthmounsavengadveiclrworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>

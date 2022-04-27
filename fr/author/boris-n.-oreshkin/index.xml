@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Boris N. Oreshkin | ServiceNow Recherche</title>
-    <link>https://servicenowresearch.netlify.app/fr/author/boris-n.-oreshkin/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/fr/author/boris-n.-oreshkin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/fr/author/boris-n.-oreshkin/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/fr/author/boris-n.-oreshkin/index.xml" rel="self" type="application/rss+xml" />
     <description>Boris N. Oreshkin</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language><lastBuildDate>Thu, 23 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <url>https://elementai.github.io/servicenowresearch/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
       <title>Boris N. Oreshkin</title>
-      <link>https://servicenowresearch.netlify.app/fr/author/boris-n.-oreshkin/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/author/boris-n.-oreshkin/</link>
     </image>
     
     <item>
       <title>Adaptive Cross-Modal Few-shot Learning</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/chenxingadapneurips2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/chenxingadapneurips2019/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/chenxingadapneurips2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/chenxingadapneurips2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Adaptive Masked Proxies for Few-Shot Segmentation</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/mennatullahsiamadapiccv2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/mennatullahsiamadapiccv2019/</link>
       <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/mennatullahsiamadapiccv2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/mennatullahsiamadapiccv2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Adaptive Cross-Modal Few-shot Learning</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/chenxingadapiclrworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/chenxingadapiclrworkshops2019/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/chenxingadapiclrworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/chenxingadapiclrworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Adaptive Masked Weight Imprinting for Few-Shot Segmentation</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/mennatullahsiamadapiclrworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/mennatullahsiamadapiclrworkshops2019/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/mennatullahsiamadapiclrworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/mennatullahsiamadapiclrworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>TADAM: Task dependent adaptive metric for improved few-shot learning</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/borisn.oreshkintadaneurips2018/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/borisn.oreshkintadaneurips2018/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/borisn.oreshkintadaneurips2018/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/borisn.oreshkintadaneurips2018/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Deep Prior</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/alexandrelacostedeepneuripsworkshops2017/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/alexandrelacostedeepneuripsworkshops2017/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/alexandrelacostedeepneuripsworkshops2017/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/alexandrelacostedeepneuripsworkshops2017/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Meta-Learning Framework with Applications to Zero-Shot Time Series Forecasting</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/borisn.oreshkinmetaiclr2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/borisn.oreshkinmetaiclr2019/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/borisn.oreshkinmetaiclr2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/borisn.oreshkinmetaiclr2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>

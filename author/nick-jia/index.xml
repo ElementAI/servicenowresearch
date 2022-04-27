@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nick Jia | ServiceNow Research</title>
-    <link>https://servicenowresearch.netlify.app/author/nick-jia/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/author/nick-jia/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/author/nick-jia/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/author/nick-jia/index.xml" rel="self" type="application/rss+xml" />
     <description>Nick Jia</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://servicenowresearch.netlify.app/author/nick-jia/avatar_hu7b24d2e0602830511b8c4050fe5936bf_1845571_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://elementai.github.io/servicenowresearch/author/nick-jia/avatar_hu7b24d2e0602830511b8c4050fe5936bf_1845571_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Nick Jia</title>
-      <link>https://servicenowresearch.netlify.app/author/nick-jia/</link>
+      <link>https://elementai.github.io/servicenowresearch/author/nick-jia/</link>
     </image>
     
   </channel>

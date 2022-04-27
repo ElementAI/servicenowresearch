@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simon Lacoste-Julien | ServiceNow Recherche</title>
-    <link>https://servicenowresearch.netlify.app/fr/author/simon-lacoste-julien/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/fr/author/simon-lacoste-julien/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/fr/author/simon-lacoste-julien/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/fr/author/simon-lacoste-julien/index.xml" rel="self" type="application/rss+xml" />
     <description>Simon Lacoste-Julien</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language><lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <url>https://elementai.github.io/servicenowresearch/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
       <title>Simon Lacoste-Julien</title>
-      <link>https://servicenowresearch.netlify.app/fr/author/simon-lacoste-julien/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/author/simon-lacoste-julien/</link>
     </image>
     
     <item>
       <title>Disentanglement via Mechanism Sparsity Regularization: A New Principle for Nonlinear ICA</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/sebastienlachapellediseclear2022/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/sebastienlachapellediseclear2022/</link>
       <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/sebastienlachapellediseclear2022/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/sebastienlachapellediseclear2022/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Disentanglement via Mechanism Sparsity Regularization: A New Principle for Nonlinear ICA</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/sebastienlachapellediseneurips2021/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/sebastienlachapellediseneurips2021/</link>
       <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/sebastienlachapellediseneurips2021/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/sebastienlachapellediseneurips2021/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Stochastic polyak step-size for sgd: An adaptive learning rate for fast convergence</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/nicolasloizoustocaistats2021/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/nicolasloizoustocaistats2021/</link>
       <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/nicolasloizoustocaistats2021/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/nicolasloizoustocaistats2021/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Differentiable Causal Discovery from Interventional Data</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/philippebrouillarddiffneurips2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/philippebrouillarddiffneurips2020/</link>
       <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/philippebrouillarddiffneurips2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/philippebrouillarddiffneurips2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Fast and Furious Convergence: Stochastic Second Order Methods under Interpolation</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/siyimengfastaistats2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/siyimengfastaistats2020/</link>
       <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/siyimengfastaistats2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/siyimengfastaistats2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Closer Look at the Optimization Landscapes of Generative Adversarial Networks</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/hugoberardacloiclr2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/hugoberardacloiclr2020/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/hugoberardacloiclr2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/hugoberardacloiclr2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Gradient-Based Neural DAG Learning with Interventions</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/philippebrouillardgradiclrworkshops2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/philippebrouillardgradiclrworkshops2020/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/philippebrouillardgradiclrworkshops2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/philippebrouillardgradiclrworkshops2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Painless Stochastic Gradient: Interpolation, Line-Search, and Convergence Rates</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/sharanvaswanipainneurips2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/sharanvaswanipainneurips2019/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/sharanvaswanipainneurips2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/sharanvaswanipainneurips2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Reducing Noise in GAN Training with Variance Reduced Extragradient</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/tatjanachavdarovareduneurips2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/tatjanachavdarovareduneurips2019/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/tatjanachavdarovareduneurips2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/tatjanachavdarovareduneurips2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>

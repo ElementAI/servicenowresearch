@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sébastien Paquet | ServiceNow Recherche</title>
-    <link>https://servicenowresearch.netlify.app/fr/author/sebastien-paquet/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/fr/author/sebastien-paquet/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/fr/author/sebastien-paquet/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/fr/author/sebastien-paquet/index.xml" rel="self" type="application/rss+xml" />
     <description>Sébastien Paquet</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language>
     <image>
-      <url>https://servicenowresearch.netlify.app/fr/author/sebastien-paquet/avatar_hu7a10967d924cfaed74b980bf98a1c01e_170105_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://elementai.github.io/servicenowresearch/fr/author/sebastien-paquet/avatar_hu7a10967d924cfaed74b980bf98a1c01e_170105_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Sébastien Paquet</title>
-      <link>https://servicenowresearch.netlify.app/fr/author/sebastien-paquet/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/author/sebastien-paquet/</link>
     </image>
     
   </channel>

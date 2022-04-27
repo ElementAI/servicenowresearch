@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frédéric Branchaud-Charron | ServiceNow Research</title>
-    <link>https://servicenowresearch.netlify.app/author/frederic-branchaud-charron/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/author/frederic-branchaud-charron/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/author/frederic-branchaud-charron/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/author/frederic-branchaud-charron/index.xml" rel="self" type="application/rss+xml" />
     <description>Frédéric Branchaud-Charron</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <url>https://elementai.github.io/servicenowresearch/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
       <title>Frédéric Branchaud-Charron</title>
-      <link>https://servicenowresearch.netlify.app/author/frederic-branchaud-charron/</link>
+      <link>https://elementai.github.io/servicenowresearch/author/frederic-branchaud-charron/</link>
     </image>
     
     <item>
       <title>Can Active Learning Preemptively Mitigate Fairness Issues?</title>
-      <link>https://servicenowresearch.netlify.app/publication/fredericbranchaud-charroncanaiclrworkshops2021/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/fredericbranchaud-charroncanaiclrworkshops2021/</link>
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/fredericbranchaud-charroncanaiclrworkshops2021/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/fredericbranchaud-charroncanaiclrworkshops2021/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Synbols: Probing Learning Algorithms with Synthetic Datasets</title>
-      <link>https://servicenowresearch.netlify.app/publication/alexandrelacostesynbmais2018/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/alexandrelacostesynbmais2018/</link>
       <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/alexandrelacostesynbmais2018/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/alexandrelacostesynbmais2018/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>

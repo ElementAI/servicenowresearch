@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Denis Therien | ServiceNow Research</title>
-    <link>https://servicenowresearch.netlify.app/author/denis-therien/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/author/denis-therien/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/author/denis-therien/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/author/denis-therien/index.xml" rel="self" type="application/rss+xml" />
     <description>Denis Therien</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://servicenowresearch.netlify.app/author/denis-therien/avatar_hudb9d0fc3a44e37abc45c4ab013112d50_37279_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://elementai.github.io/servicenowresearch/author/denis-therien/avatar_hudb9d0fc3a44e37abc45c4ab013112d50_37279_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Denis Therien</title>
-      <link>https://servicenowresearch.netlify.app/author/denis-therien/</link>
+      <link>https://elementai.github.io/servicenowresearch/author/denis-therien/</link>
     </image>
     
   </channel>

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elnaz Barshan | ServiceNow Research</title>
-    <link>https://servicenowresearch.netlify.app/author/elnaz-barshan/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/author/elnaz-barshan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/author/elnaz-barshan/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/author/elnaz-barshan/index.xml" rel="self" type="application/rss+xml" />
     <description>Elnaz Barshan</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <url>https://elementai.github.io/servicenowresearch/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
       <title>Elnaz Barshan</title>
-      <link>https://servicenowresearch.netlify.app/author/elnaz-barshan/</link>
+      <link>https://elementai.github.io/servicenowresearch/author/elnaz-barshan/</link>
     </image>
     
     <item>
       <title>RelatIF: Identifying Explanatory Training Examples via Relative Influence</title>
-      <link>https://servicenowresearch.netlify.app/publication/elnazbarshanrelaaistats2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/elnazbarshanrelaaistats2020/</link>
       <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/elnazbarshanrelaaistats2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/elnazbarshanrelaaistats2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Semantics Preserving Adversarial Learning</title>
-      <link>https://servicenowresearch.netlify.app/publication/ousmaneamadoudiasemaarxiv2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/ousmaneamadoudiasemaarxiv2019/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/ousmaneamadoudiasemaarxiv2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/ousmaneamadoudiasemaarxiv2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>

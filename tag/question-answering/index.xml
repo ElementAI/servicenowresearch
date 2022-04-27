@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Question Answering | ServiceNow Research</title>
-    <link>https://servicenowresearch.netlify.app/tag/question-answering/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/tag/question-answering/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/tag/question-answering/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/tag/question-answering/index.xml" rel="self" type="application/rss+xml" />
     <description>Question Answering</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <url>https://elementai.github.io/servicenowresearch/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
       <title>Question Answering</title>
-      <link>https://servicenowresearch.netlify.app/tag/question-answering/</link>
+      <link>https://elementai.github.io/servicenowresearch/tag/question-answering/</link>
     </image>
     
     <item>
       <title>TopiOCQA: Open-domain Conversational Question Answering with Topic Switching</title>
-      <link>https://servicenowresearch.netlify.app/publication/vaibhavadlakhatopiacl2022/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/vaibhavadlakhatopiacl2022/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/vaibhavadlakhatopiacl2022/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/vaibhavadlakhatopiacl2022/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Strong Baselines for Simple Question Answering over Knowledge Graphs with and without Neural Networks</title>
-      <link>https://servicenowresearch.netlify.app/publication/salmanmohammedstronaacl2018/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/salmanmohammedstronaacl2018/</link>
       <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/salmanmohammedstronaacl2018/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/salmanmohammedstronaacl2018/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Coarse-to-Fine Question Answering for Long Documents</title>
-      <link>https://servicenowresearch.netlify.app/publication/eunsolchoicoaracl2016/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/eunsolchoicoaracl2016/</link>
       <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/eunsolchoicoaracl2016/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/eunsolchoicoaracl2016/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>

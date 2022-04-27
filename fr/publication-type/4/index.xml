@@ -2,498 +2,498 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>4 | ServiceNow Recherche</title>
-    <link>https://servicenowresearch.netlify.app/fr/publication-type/4/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/fr/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/fr/publication-type/4/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/fr/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
     <description>4</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <url>https://elementai.github.io/servicenowresearch/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
       <title>4</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication-type/4/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication-type/4/</link>
     </image>
     
     <item>
       <title>Object-centric Compositional Imagination for Visual Abstract Reasoning</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/rimassouelobjeiclrworkshops2022/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/rimassouelobjeiclrworkshops2022/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/rimassouelobjeiclrworkshops2022/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/rimassouelobjeiclrworkshops2022/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>On the Value of ML Models</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/fabiocasationthneuripsworkshops2021/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/fabiocasationthneuripsworkshops2021/</link>
       <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/fabiocasationthneuripsworkshops2021/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/fabiocasationthneuripsworkshops2021/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Toward Foundation Models for Earth Monitoring: Proposal for a Climate Change Benchmark</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/alexandrelacostetowaneuripsworkshops2021/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/alexandrelacostetowaneuripsworkshops2021/</link>
       <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/alexandrelacostetowaneuripsworkshops2021/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/alexandrelacostetowaneuripsworkshops2021/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Data Augmentation for Intent Classification with Off-the-shelf Large Language Models</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/gauravsahudataaclworkshops2022/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/gauravsahudataaclworkshops2022/</link>
       <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/gauravsahudataaclworkshops2022/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/gauravsahudataaclworkshops2022/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>SSR: Semi-supervised Soft Rasterizer for single-view 2D to 3D Reconstruction</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/issamh.laradjissriccvworkshops2021/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/issamh.laradjissriccvworkshops2021/</link>
       <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/issamh.laradjissriccvworkshops2021/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/issamh.laradjissriccvworkshops2021/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Can Active Learning Preemptively Mitigate Fairness Issues?</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/fredericbranchaud-charroncanaiclrworkshops2021/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/fredericbranchaud-charroncanaiclrworkshops2021/</link>
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/fredericbranchaud-charroncanaiclrworkshops2021/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/fredericbranchaud-charroncanaiclrworkshops2021/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Like A Researcher Stating Broader Impact for the Very First Time</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/graceabuhamadlikeneuripsworkshops2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/graceabuhamadlikeneuripsworkshops2020/</link>
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/graceabuhamadlikeneuripsworkshops2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/graceabuhamadlikeneuripsworkshops2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Counting Cows: Tracking Illegal Cattle RanchingFrom High-Resolution Satellite Imagery</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/issamh.laradjicounneuripsworkshops2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/issamh.laradjicounneuripsworkshops2020/</link>
       <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/issamh.laradjicounneuripsworkshops2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/issamh.laradjicounneuripsworkshops2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title> Bayesian active learning for production, a systematic study and a reusable library</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/parmidaatighhehchianbayeicmlworkshops2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/parmidaatighhehchianbayeicmlworkshops2020/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/parmidaatighhehchianbayeicmlworkshops2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/parmidaatighhehchianbayeicmlworkshops2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Synbols: Probing Learning Algorithms with Synthetic Datasets</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/alexandrelacostesynbmais2018/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/alexandrelacostesynbmais2018/</link>
       <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/alexandrelacostesynbmais2018/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/alexandrelacostesynbmais2018/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Online Fast Adaptation and Knowledge Accumulation: a New Approach to Continual Learning</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/massimocacciaonlicvprworkshops2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/massimocacciaonlicvprworkshops2020/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/massimocacciaonlicvprworkshops2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/massimocacciaonlicvprworkshops2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Gradient-Based Neural DAG Learning with Interventions</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/philippebrouillardgradiclrworkshops2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/philippebrouillardgradiclrworkshops2020/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/philippebrouillardgradiclrworkshops2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/philippebrouillardgradiclrworkshops2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Knowledge Hypergraphs: Prediction Beyond Binary Relations</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/baharefatemiknowaaaiworkshops2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/baharefatemiknowaaaiworkshops2020/</link>
       <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/baharefatemiknowaaaiworkshops2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/baharefatemiknowaaaiworkshops2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Class-Based Styling: Real-time Localized Style Transfer with Semantic Segmentation</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/lironnekurzmanclaswiml2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/lironnekurzmanclaswiml2019/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/lironnekurzmanclaswiml2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/lironnekurzmanclaswiml2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Knowledge Hypergraphs: Prediction Beyond Binary Relations</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/baharefatemiknowwiml2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/baharefatemiknowwiml2019/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/baharefatemiknowwiml2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/baharefatemiknowwiml2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Linear Mode Connectivity and the Lottery Ticket Hypothesis</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/jonathanfranklelinewiml2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/jonathanfranklelinewiml2019/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/jonathanfranklelinewiml2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/jonathanfranklelinewiml2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Optimal PAC-Bayes bounds require distribution- and data-dependent priors</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/kylehsuoptiwiml2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/kylehsuoptiwiml2019/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/kylehsuoptiwiml2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/kylehsuoptiwiml2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Adversarial Functionality-Preserving Training in the Malware Domain</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/ousmaneamadoudiaadveneuripsworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/ousmaneamadoudiaadveneuripsworkshops2019/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/ousmaneamadoudiaadveneuripsworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/ousmaneamadoudiaadveneuripsworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>CLOSURE: Assessing Systematic Generalization of CLEVR models</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/dzmitrybahdanauclosneuripsworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/dzmitrybahdanauclosneuripsworkshops2019/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/dzmitrybahdanauclosneuripsworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/dzmitrybahdanauclosneuripsworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Deep Complex Separators</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/christopherpaldeepneuripsworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/christopherpaldeepneuripsworkshops2019/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/christopherpaldeepneuripsworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/christopherpaldeepneuripsworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Neocortical plasticity: an unsupervised cake but no free lunch</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/eilifmullerneocneuripsworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/eilifmullerneocneuripsworkshops2019/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/eilifmullerneocneuripsworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/eilifmullerneocneuripsworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Objects of violence: synthetic data for practical ML in human rights investigations</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/lachlankermodeobjeneuripsworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/lachlankermodeobjeneuripsworkshops2019/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/lachlankermodeobjeneuripsworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/lachlankermodeobjeneuripsworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Optimal PAC-Bayes bounds require distribution- and data-dependent priors</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/kylehsuoptineuripsworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/kylehsuoptineuripsworkshops2019/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/kylehsuoptineuripsworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/kylehsuoptineuripsworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Retrieving Signals in the Frequency Domain with Deep Complex Extractors</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/chihebtrabelsiretrneuripsworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/chihebtrabelsiretrneuripsworkshops2019/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/chihebtrabelsiretrneuripsworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/chihebtrabelsiretrneuripsworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Tackling Climate Change with Machine Learning</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/davidrolnicktackneuripsworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/davidrolnicktackneuripsworkshops2019/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/davidrolnicktackneuripsworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/davidrolnicktackneuripsworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Towards generalization guarantees for SGD: Data-dependent PAC-Bayes priors</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/gabrielarpinotowaneuripsworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/gabrielarpinotowaneuripsworkshops2019/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/gabrielarpinotowaneuripsworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/gabrielarpinotowaneuripsworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Class-Based Styling: Real-time Localized Style Transfer with Semantic Segmentation</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/lironnekurzmanclasiccvworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/lironnekurzmanclasiccvworkshops2019/</link>
       <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/lironnekurzmanclasiccvworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/lironnekurzmanclasiccvworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Fourier-CPPNs for Image Synthesis</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/mattietesfaldetfouriccvworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/mattietesfaldetfouriccvworkshops2019/</link>
       <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/mattietesfaldetfouriccvworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/mattietesfaldetfouriccvworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Information-Theoretic Generalization Bounds for SGLD via Data-Dependent Estimates</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/jeffreynegreainfoicmlworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/jeffreynegreainfoicmlworkshops2019/</link>
       <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/jeffreynegreainfoicmlworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/jeffreynegreainfoicmlworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Learning Global Variations in Outdoor PM_2.5 Concentrations with Satellite Images</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/yukaikrishonglearicmlworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/yukaikrishonglearicmlworkshops2019/</link>
       <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/yukaikrishonglearicmlworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/yukaikrishonglearicmlworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Stochastic Neural Network with Kronecker Flow</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/chin-weihuangstocicmlworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/chin-weihuangstocicmlworkshops2019/</link>
       <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/chin-weihuangstocicmlworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/chin-weihuangstocicmlworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Adaptive Cross-Modal Few-shot Learning</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/chenxingadapiclrworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/chenxingadapiclrworkshops2019/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/chenxingadapiclrworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/chenxingadapiclrworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Adaptive Masked Weight Imprinting for Few-Shot Segmentation</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/mennatullahsiamadapiclrworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/mennatullahsiamadapiclrworkshops2019/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/mennatullahsiamadapiclrworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/mennatullahsiamadapiclrworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Adversarial Learning of General Transformations for Data Augmentation</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/saypraseuthmounsavengadveiclrworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/saypraseuthmounsavengadveiclrworkshops2019/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/saypraseuthmounsavengadveiclrworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/saypraseuthmounsavengadveiclrworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Adversarial Mixup Resynthesizers</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/christopherbeckhamadveiclrworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/christopherbeckhamadveiclrworkshops2019/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/christopherbeckhamadveiclrworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/christopherbeckhamadveiclrworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Planning with Latent SImulated Trajectories</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/alexandrepicheplaniclrworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/alexandrepicheplaniclrworkshops2019/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/alexandrepicheplaniclrworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/alexandrepicheplaniclrworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Reproducibility and Stability Analysis in Metric-Based Few-Shot Learning</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/nathanschucherrepriclrworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/nathanschucherrepriclrworkshops2019/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/nathanschucherrepriclrworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/nathanschucherrepriclrworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Towards Standardization of Data Licenses: The Montreal Data License</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/mishabenjamintowaiclrworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/mishabenjamintowaiclrworkshops2019/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/mishabenjamintowaiclrworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/mishabenjamintowaiclrworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>An escape-time analysis of SGD</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/mufanlianeswiml2018/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/mufanlianeswiml2018/</link>
       <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/mufanlianeswiml2018/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/mufanlianeswiml2018/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Fashion-Gen: The Generative Fashion Dataset and Challenge</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/negarrostamzadehfashwiml2018/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/negarrostamzadehfashwiml2018/</link>
       <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/negarrostamzadehfashwiml2018/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/negarrostamzadehfashwiml2018/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Adversarial Framing for Image and Video Classification</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/konradzolnaadveaaaistudentabstract2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/konradzolnaadveaaaistudentabstract2019/</link>
       <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/konradzolnaadveaaaistudentabstract2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/konradzolnaadveaaaistudentabstract2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bayesian Model-Agnostic Meta-Learning</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/taesupkimbayemais2018/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/taesupkimbayemais2018/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/taesupkimbayemais2018/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/taesupkimbayemais2018/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Maximal Jacobian-based Saliency Map Attack</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/reyrezawiyatnomaximais2018/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/reyrezawiyatnomaximais2018/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/reyrezawiyatnomaximais2018/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/reyrezawiyatnomaximais2018/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A large-scale crowd-sourced analysis of abuse against women journalists and politicians on Twitter</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/lauredelislealarneuripsworkshops2018/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/lauredelislealarneuripsworkshops2018/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/lauredelislealarneuripsworkshops2018/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/lauredelislealarneuripsworkshops2018/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Reinforced Imitation in Heterogeneous Action Space</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/konradzolnareinneuripsworkshops2018/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/konradzolnareinneuripsworkshops2018/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/konradzolnareinneuripsworkshops2018/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/konradzolnareinneuripsworkshops2018/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Tighter Nonvacuous PAC-Bayes Bounds: Beyond Stability of SGD</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/gabrielarpinotighneuripsworkshops2018/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/gabrielarpinotighneuripsworkshops2018/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/gabrielarpinotighneuripsworkshops2018/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/gabrielarpinotighneuripsworkshops2018/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Fashion-Gen: The Generative Fashion Dataset and Challenge</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/negarrostamzadehfashicmlworkshops2018/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/negarrostamzadehfashicmlworkshops2018/</link>
       <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/negarrostamzadehfashicmlworkshops2018/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/negarrostamzadehfashicmlworkshops2018/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hierarchical Adversarially Learned Inference</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/ishmaelbelghazihiericmlworkshops2018/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/ishmaelbelghazihiericmlworkshops2018/</link>
       <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/ishmaelbelghazihiericmlworkshops2018/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/ishmaelbelghazihiericmlworkshops2018/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Class-Based Styling: Real-time Localized Style Transfer with Semantic Segmentation</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/lironnekurzmanclasiclrworkshops2018/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/lironnekurzmanclasiclrworkshops2018/</link>
       <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/lironnekurzmanclasiclrworkshops2018/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/lironnekurzmanclasiclrworkshops2018/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bayesian Hypernetworks</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/davidkruegerbayeneuripsworkshops2017/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/davidkruegerbayeneuripsworkshops2017/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/davidkruegerbayeneuripsworkshops2017/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/davidkruegerbayeneuripsworkshops2017/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Deep Prior</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/alexandrelacostedeepneuripsworkshops2017/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/alexandrelacostedeepneuripsworkshops2017/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/alexandrelacostedeepneuripsworkshops2017/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/alexandrelacostedeepneuripsworkshops2017/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Disentangling the independently controllable factors of variation by interacting with the world</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/valentinthomasdiseneuripsworkshops2017/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/valentinthomasdiseneuripsworkshops2017/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/valentinthomasdiseneuripsworkshops2017/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/valentinthomasdiseneuripsworkshops2017/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Probabilistic Perspective on Reinforcement Learning via Supervised Learning</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/alexandrepicheaproiclrworkshops2022/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/alexandrepicheaproiclrworkshops2022/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/alexandrepicheaproiclrworkshops2022/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/alexandrepicheaproiclrworkshops2022/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Pruning Neural Networks at Initialization: Why Are We Missing the Mark? </title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/jonathanfrankleprunneuripsworkshops2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/jonathanfrankleprunneuripsworkshops2020/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/jonathanfrankleprunneuripsworkshops2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/jonathanfrankleprunneuripsworkshops2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>

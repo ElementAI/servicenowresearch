@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joel Lamy Poirier | ServiceNow Research</title>
-    <link>https://servicenowresearch.netlify.app/author/joel-lamy-poirier/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/author/joel-lamy-poirier/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/author/joel-lamy-poirier/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/author/joel-lamy-poirier/index.xml" rel="self" type="application/rss+xml" />
     <description>Joel Lamy Poirier</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Dec 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/author/joel-lamy-poirier/avatar_huc6577c45bcd67bd18bb2c5aa4b07c87f_162889_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://elementai.github.io/servicenowresearch/author/joel-lamy-poirier/avatar_huc6577c45bcd67bd18bb2c5aa4b07c87f_162889_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Joel Lamy Poirier</title>
-      <link>https://servicenowresearch.netlify.app/author/joel-lamy-poirier/</link>
+      <link>https://elementai.github.io/servicenowresearch/author/joel-lamy-poirier/</link>
     </image>
     
     <item>
       <title>Hinted Networks</title>
-      <link>https://servicenowresearch.netlify.app/publication/joellamypoirierhintarxiv2018/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/joellamypoirierhintarxiv2018/</link>
       <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/joellamypoirierhintarxiv2018/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/joellamypoirierhintarxiv2018/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stefano Ermon | ServiceNow Research</title>
-    <link>https://servicenowresearch.netlify.app/author/stefano-ermon/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/author/stefano-ermon/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/author/stefano-ermon/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/author/stefano-ermon/index.xml" rel="self" type="application/rss+xml" />
     <description>Stefano Ermon</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://servicenowresearch.netlify.app/author/stefano-ermon/avatar_hu9a11c00b2396fb44c14b5ec30f6ad422_267109_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://elementai.github.io/servicenowresearch/author/stefano-ermon/avatar_hu9a11c00b2396fb44c14b5ec30f6ad422_267109_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Stefano Ermon</title>
-      <link>https://servicenowresearch.netlify.app/author/stefano-ermon/</link>
+      <link>https://elementai.github.io/servicenowresearch/author/stefano-ermon/</link>
     </image>
     
   </channel>

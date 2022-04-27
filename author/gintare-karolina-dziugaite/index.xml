@@ -2,237 +2,237 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gintare Karolina Dziugaite | ServiceNow Research</title>
-    <link>https://servicenowresearch.netlify.app/author/gintare-karolina-dziugaite/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/author/gintare-karolina-dziugaite/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/author/gintare-karolina-dziugaite/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/author/gintare-karolina-dziugaite/index.xml" rel="self" type="application/rss+xml" />
     <description>Gintare Karolina Dziugaite</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <url>https://elementai.github.io/servicenowresearch/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
       <title>Gintare Karolina Dziugaite</title>
-      <link>https://servicenowresearch.netlify.app/author/gintare-karolina-dziugaite/</link>
+      <link>https://elementai.github.io/servicenowresearch/author/gintare-karolina-dziugaite/</link>
     </image>
     
     <item>
       <title>The Dynamics of Functional Diversity throughout Neural Network Training</title>
-      <link>https://servicenowresearch.netlify.app/publication/leezamparothedneurips2021/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/leezamparothedneurips2021/</link>
       <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/leezamparothedneurips2021/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/leezamparothedneurips2021/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>In search of robust measures of generalization</title>
-      <link>https://servicenowresearch.netlify.app/publication/gintarekarolinadziugaiteinseneurips2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/gintarekarolinadziugaiteinseneurips2020/</link>
       <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/gintarekarolinadziugaiteinseneurips2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/gintarekarolinadziugaiteinseneurips2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>On the Information Complexity of Proper Learners for VC Classes in the Realizable Case</title>
-      <link>https://servicenowresearch.netlify.app/publication/mahdihaghifamontharxiv2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/mahdihaghifamontharxiv2020/</link>
       <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/mahdihaghifamontharxiv2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/mahdihaghifamontharxiv2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Linear Mode Connectivity and the Lottery Ticket Hypothesis</title>
-      <link>https://servicenowresearch.netlify.app/publication/jonathanfranklelineicml2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/jonathanfranklelineicml2020/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/jonathanfranklelineicml2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/jonathanfranklelineicml2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>In Defense of Uniform Convergence: Generalization via derandomization with an application to interpolating predictors</title>
-      <link>https://servicenowresearch.netlify.app/publication/jeffreynegreaindeicml2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/jeffreynegreaindeicml2020/</link>
       <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/jeffreynegreaindeicml2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/jeffreynegreaindeicml2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>RelatIF: Identifying Explanatory Training Examples via Relative Influence</title>
-      <link>https://servicenowresearch.netlify.app/publication/elnazbarshanrelaaistats2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/elnazbarshanrelaaistats2020/</link>
       <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/elnazbarshanrelaaistats2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/elnazbarshanrelaaistats2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Stochastic Neural Network with Kronecker Flow</title>
-      <link>https://servicenowresearch.netlify.app/publication/chin-weihuangstocaistats2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/chin-weihuangstocaistats2020/</link>
       <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/chin-weihuangstocaistats2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/chin-weihuangstocaistats2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Stabilizing the Lottery Ticket Hypothesis</title>
-      <link>https://servicenowresearch.netlify.app/publication/jonathanfranklestabaaai2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/jonathanfranklestabaaai2020/</link>
       <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/jonathanfranklestabaaai2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/jonathanfranklestabaaai2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Linear Mode Connectivity and the Lottery Ticket Hypothesis</title>
-      <link>https://servicenowresearch.netlify.app/publication/jonathanfranklelinewiml2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/jonathanfranklelinewiml2019/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/jonathanfranklelinewiml2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/jonathanfranklelinewiml2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Optimal PAC-Bayes bounds require distribution- and data-dependent priors</title>
-      <link>https://servicenowresearch.netlify.app/publication/kylehsuoptiwiml2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/kylehsuoptiwiml2019/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/kylehsuoptiwiml2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/kylehsuoptiwiml2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Information-Theoretic Generalization Bounds for SGLD via Data-Dependent Estimates</title>
-      <link>https://servicenowresearch.netlify.app/publication/jeffreynegreainfoneurips2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/jeffreynegreainfoneurips2019/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/jeffreynegreainfoneurips2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/jeffreynegreainfoneurips2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Optimal PAC-Bayes bounds require distribution- and data-dependent priors</title>
-      <link>https://servicenowresearch.netlify.app/publication/kylehsuoptineuripsworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/kylehsuoptineuripsworkshops2019/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/kylehsuoptineuripsworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/kylehsuoptineuripsworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Towards generalization guarantees for SGD: Data-dependent PAC-Bayes priors</title>
-      <link>https://servicenowresearch.netlify.app/publication/gabrielarpinotowaneuripsworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/gabrielarpinotowaneuripsworkshops2019/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/gabrielarpinotowaneuripsworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/gabrielarpinotowaneuripsworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Lottery Ticket Hypothesis at Scale</title>
-      <link>https://servicenowresearch.netlify.app/publication/jonathanfranklethelarxiv2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/jonathanfranklethelarxiv2019/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/jonathanfranklethelarxiv2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/jonathanfranklethelarxiv2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Information-Theoretic Generalization Bounds for SGLD via Data-Dependent Estimates</title>
-      <link>https://servicenowresearch.netlify.app/publication/jeffreynegreainfoicmlworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/jeffreynegreainfoicmlworkshops2019/</link>
       <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/jeffreynegreainfoicmlworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/jeffreynegreainfoicmlworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Stochastic Neural Network with Kronecker Flow</title>
-      <link>https://servicenowresearch.netlify.app/publication/chin-weihuangstocicmlworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/chin-weihuangstocicmlworkshops2019/</link>
       <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/chin-weihuangstocicmlworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/chin-weihuangstocicmlworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>An escape-time analysis of SGD</title>
-      <link>https://servicenowresearch.netlify.app/publication/mufanlianeswiml2018/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/mufanlianeswiml2018/</link>
       <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/mufanlianeswiml2018/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/mufanlianeswiml2018/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Data-dependent PAC-Bayes priors via differential privacy</title>
-      <link>https://servicenowresearch.netlify.app/publication/gintarekarolinadziugaitedataneurips2018/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/gintarekarolinadziugaitedataneurips2018/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/gintarekarolinadziugaitedataneurips2018/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/gintarekarolinadziugaitedataneurips2018/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Tighter Nonvacuous PAC-Bayes Bounds: Beyond Stability of SGD</title>
-      <link>https://servicenowresearch.netlify.app/publication/gabrielarpinotighneuripsworkshops2018/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/gabrielarpinotighneuripsworkshops2018/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/gabrielarpinotighneuripsworkshops2018/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/gabrielarpinotighneuripsworkshops2018/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>An empirical study of loss landscape geometry and evolution of the data-dependent Neural Tangent Kernel</title>
-      <link>https://servicenowresearch.netlify.app/publication/stanislavfortanemneurips2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/stanislavfortanemneurips2020/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/stanislavfortanemneurips2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/stanislavfortanemneurips2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Enforcing Interpretability and its Statistical Impacts: Trade-offs between Accuracy and Interpretability</title>
-      <link>https://servicenowresearch.netlify.app/publication/gintarekarolinadziugaiteenfoarxiv2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/gintarekarolinadziugaiteenfoarxiv2020/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/gintarekarolinadziugaiteenfoarxiv2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/gintarekarolinadziugaiteenfoarxiv2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>On the role of data in PAC-Bayes bounds</title>
-      <link>https://servicenowresearch.netlify.app/publication/gintarekarolinadziugaiteonthaistats2021/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/gintarekarolinadziugaiteonthaistats2021/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/gintarekarolinadziugaiteonthaistats2021/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/gintarekarolinadziugaiteonthaistats2021/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Pruning Neural Networks at Initialization: Why are We Missing the Mark?</title>
-      <link>https://servicenowresearch.netlify.app/publication/jonathanfranklepruniclr2021/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/jonathanfranklepruniclr2021/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/jonathanfranklepruniclr2021/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/jonathanfranklepruniclr2021/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Pruning Neural Networks at Initialization: Why Are We Missing the Mark? </title>
-      <link>https://servicenowresearch.netlify.app/publication/jonathanfrankleprunneuripsworkshops2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/jonathanfrankleprunneuripsworkshops2020/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/jonathanfrankleprunneuripsworkshops2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/jonathanfrankleprunneuripsworkshops2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sharpened Generalization Bounds based on Conditional Mutual Information and an Application to Noisy-Gradient Iterative Algorithms</title>
-      <link>https://servicenowresearch.netlify.app/publication/mahdihaghifamsharneurips2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/mahdihaghifamsharneurips2020/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/mahdihaghifamsharneurips2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/mahdihaghifamsharneurips2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>

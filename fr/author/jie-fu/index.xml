@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jie Fu | ServiceNow Recherche</title>
-    <link>https://servicenowresearch.netlify.app/fr/author/jie-fu/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/fr/author/jie-fu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/fr/author/jie-fu/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/fr/author/jie-fu/index.xml" rel="self" type="application/rss+xml" />
     <description>Jie Fu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language><lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <url>https://elementai.github.io/servicenowresearch/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
       <title>Jie Fu</title>
-      <link>https://servicenowresearch.netlify.app/fr/author/jie-fu/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/author/jie-fu/</link>
     </image>
     
     <item>
       <title>Structure Learning for Neural Module Networks</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/vardaanpahujastruacl2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/vardaanpahujastruacl2019/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/vardaanpahujastruacl2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/vardaanpahujastruacl2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>

@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sébastien Lachapelle | ServiceNow Recherche</title>
-    <link>https://servicenowresearch.netlify.app/fr/author/sebastien-lachapelle/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/fr/author/sebastien-lachapelle/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/fr/author/sebastien-lachapelle/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/fr/author/sebastien-lachapelle/index.xml" rel="self" type="application/rss+xml" />
     <description>Sébastien Lachapelle</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language><lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <url>https://elementai.github.io/servicenowresearch/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
       <title>Sébastien Lachapelle</title>
-      <link>https://servicenowresearch.netlify.app/fr/author/sebastien-lachapelle/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/author/sebastien-lachapelle/</link>
     </image>
     
     <item>
       <title>Disentanglement via Mechanism Sparsity Regularization: A New Principle for Nonlinear ICA</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/sebastienlachapellediseclear2022/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/sebastienlachapellediseclear2022/</link>
       <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/sebastienlachapellediseclear2022/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/sebastienlachapellediseclear2022/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Typing assumptions improve identification in causal discovery - Report and comments on future directions</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/philippebrouillardtypineurips2021/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/philippebrouillardtypineurips2021/</link>
       <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/philippebrouillardtypineurips2021/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/philippebrouillardtypineurips2021/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Disentanglement via Mechanism Sparsity Regularization: A New Principle for Nonlinear ICA</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/sebastienlachapellediseneurips2021/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/sebastienlachapellediseneurips2021/</link>
       <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/sebastienlachapellediseneurips2021/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/sebastienlachapellediseneurips2021/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Typing assumptions improve identification in causal discovery - theory and algorithms</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/philippebrouillardtypiclear2022/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/philippebrouillardtypiclear2022/</link>
       <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/philippebrouillardtypiclear2022/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/philippebrouillardtypiclear2022/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Typing assumptions improve identification in causal discovery</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/philippebrouillardtypiicml2021/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/philippebrouillardtypiicml2021/</link>
       <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/philippebrouillardtypiicml2021/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/philippebrouillardtypiicml2021/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Differentiable Causal Discovery from Interventional Data</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/philippebrouillarddiffneurips2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/philippebrouillarddiffneurips2020/</link>
       <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/philippebrouillarddiffneurips2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/philippebrouillarddiffneurips2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Gradient-Based Neural DAG Learning with Interventions</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/philippebrouillardgradiclrworkshops2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/philippebrouillardgradiclrworkshops2020/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/philippebrouillardgradiclrworkshops2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/philippebrouillardgradiclrworkshops2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/yoshuabengioameticlr2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/yoshuabengioameticlr2020/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/yoshuabengioameticlr2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/yoshuabengioameticlr2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>

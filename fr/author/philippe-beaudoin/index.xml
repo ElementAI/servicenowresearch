@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Philippe Beaudoin | ServiceNow Recherche</title>
-    <link>https://servicenowresearch.netlify.app/fr/author/philippe-beaudoin/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/fr/author/philippe-beaudoin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/fr/author/philippe-beaudoin/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/fr/author/philippe-beaudoin/index.xml" rel="self" type="application/rss+xml" />
     <description>Philippe Beaudoin</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language><lastBuildDate>Thu, 23 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <url>https://elementai.github.io/servicenowresearch/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
       <title>Philippe Beaudoin</title>
-      <link>https://servicenowresearch.netlify.app/fr/author/philippe-beaudoin/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/author/philippe-beaudoin/</link>
     </image>
     
     <item>
       <title>CLOSURE: Assessing Systematic Generalization of CLEVR models</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/dzmitrybahdanauclosneuripsworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/dzmitrybahdanauclosneuripsworkshops2019/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/dzmitrybahdanauclosneuripsworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/dzmitrybahdanauclosneuripsworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Neocortical plasticity: an unsupervised cake but no free lunch</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/eilifmullerneocneuripsworkshops2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/eilifmullerneocneuripsworkshops2019/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/eilifmullerneocneuripsworkshops2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/eilifmullerneocneuripsworkshops2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Independently Controllable Factors</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/valentinthomasindearxiv2017/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/valentinthomasindearxiv2017/</link>
       <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/valentinthomasindearxiv2017/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/valentinthomasindearxiv2017/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Disentangling the independently controllable factors of variation by interacting with the world</title>
-      <link>https://servicenowresearch.netlify.app/fr/publication/valentinthomasdiseneuripsworkshops2017/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/publication/valentinthomasdiseneuripsworkshops2017/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/fr/publication/valentinthomasdiseneuripsworkshops2017/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/fr/publication/valentinthomasdiseneuripsworkshops2017/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>

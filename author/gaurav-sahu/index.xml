@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gaurav Sahu | ServiceNow Research</title>
-    <link>https://servicenowresearch.netlify.app/author/gaurav-sahu/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/author/gaurav-sahu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/author/gaurav-sahu/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/author/gaurav-sahu/index.xml" rel="self" type="application/rss+xml" />
     <description>Gaurav Sahu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/author/gaurav-sahu/avatar_hu9b2df9880aafd372782115e8ca28eaaa_338487_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://elementai.github.io/servicenowresearch/author/gaurav-sahu/avatar_hu9b2df9880aafd372782115e8ca28eaaa_338487_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Gaurav Sahu</title>
-      <link>https://servicenowresearch.netlify.app/author/gaurav-sahu/</link>
+      <link>https://elementai.github.io/servicenowresearch/author/gaurav-sahu/</link>
     </image>
     
     <item>
       <title>Data Augmentation for Intent Classification with Off-the-shelf Large Language Models</title>
-      <link>https://servicenowresearch.netlify.app/publication/gauravsahudataaclworkshops2022/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/gauravsahudataaclworkshops2022/</link>
       <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/gauravsahudataaclworkshops2022/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/gauravsahudataaclworkshops2022/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>

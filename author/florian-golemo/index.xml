@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Florian Golemo | ServiceNow Research</title>
-    <link>https://servicenowresearch.netlify.app/author/florian-golemo/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/author/florian-golemo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/author/florian-golemo/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/author/florian-golemo/index.xml" rel="self" type="application/rss+xml" />
     <description>Florian Golemo</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/author/florian-golemo/avatar_hu66d2fe7a4a1aceca7d3f1a66f8e0b956_60738_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://elementai.github.io/servicenowresearch/author/florian-golemo/avatar_hu66d2fe7a4a1aceca7d3f1a66f8e0b956_60738_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Florian Golemo</title>
-      <link>https://servicenowresearch.netlify.app/author/florian-golemo/</link>
+      <link>https://elementai.github.io/servicenowresearch/author/florian-golemo/</link>
     </image>
     
     <item>
       <title>Latent Variable Sequential Set Transformers for Joint Multi-Agent Motion Prediction</title>
-      <link>https://servicenowresearch.netlify.app/publication/rogergirgislateiclr2022/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/rogergirgislateiclr2022/</link>
       <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/rogergirgislateiclr2022/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/rogergirgislateiclr2022/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Kubric: A scalable dataset generator</title>
-      <link>https://servicenowresearch.netlify.app/publication/klausgreffkubrcvpr2022/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/klausgreffkubrcvpr2022/</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/klausgreffkubrcvpr2022/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/klausgreffkubrcvpr2022/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Unsupervised Learning of Dense Visual Representations</title>
-      <link>https://servicenowresearch.netlify.app/publication/pedroo.pinheirounsuneurips2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/pedroo.pinheirounsuneurips2020/</link>
       <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/pedroo.pinheirounsuneurips2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/pedroo.pinheirounsuneurips2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Active Domain Randomization</title>
-      <link>https://servicenowresearch.netlify.app/publication/bhairavmehtaacticorl2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/bhairavmehtaacticorl2019/</link>
       <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/bhairavmehtaacticorl2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/bhairavmehtaacticorl2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>SEVN: A Sidewalk Simulation Environment for Visual Navigation</title>
-      <link>https://servicenowresearch.netlify.app/publication/martinweisssevncorl2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/martinweisssevncorl2019/</link>
       <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/martinweisssevncorl2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/martinweisssevncorl2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Pix2Shape: Towards Unsupervised Learning of 3D Scenesfrom Images using a View-based Representation</title>
-      <link>https://servicenowresearch.netlify.app/publication/sairajeswarmudumbapix2ijcv2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/sairajeswarmudumbapix2ijcv2020/</link>
       <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/sairajeswarmudumbapix2ijcv2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/sairajeswarmudumbapix2ijcv2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Touch-based Curiosity for Sparse-Reward Tasks</title>
-      <link>https://servicenowresearch.netlify.app/publication/sairajeswartouccorl2021/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/sairajeswartouccorl2021/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/sairajeswartouccorl2021/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/sairajeswartouccorl2021/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>

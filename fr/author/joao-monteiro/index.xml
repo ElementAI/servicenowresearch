@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>João Monteiro | ServiceNow Recherche</title>
-    <link>https://servicenowresearch.netlify.app/fr/author/joao-monteiro/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/fr/author/joao-monteiro/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/fr/author/joao-monteiro/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/fr/author/joao-monteiro/index.xml" rel="self" type="application/rss+xml" />
     <description>João Monteiro</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language>
     <image>
-      <url>https://servicenowresearch.netlify.app/fr/author/joao-monteiro/avatar_hue538a9e4f6bf9f574cd70b96f1965fc5_5520_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://elementai.github.io/servicenowresearch/fr/author/joao-monteiro/avatar_hue538a9e4f6bf9f574cd70b96f1965fc5_5520_270x270_fill_q75_lanczos_center.jpg</url>
       <title>João Monteiro</title>
-      <link>https://servicenowresearch.netlify.app/fr/author/joao-monteiro/</link>
+      <link>https://elementai.github.io/servicenowresearch/fr/author/joao-monteiro/</link>
     </image>
     
   </channel>

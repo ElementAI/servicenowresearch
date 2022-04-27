@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Seyedarian (Arian) Hosseini | ServiceNow Research</title>
-    <link>https://servicenowresearch.netlify.app/author/seyedarian-arian-hosseini/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/author/seyedarian-arian-hosseini/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/author/seyedarian-arian-hosseini/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/author/seyedarian-arian-hosseini/index.xml" rel="self" type="application/rss+xml" />
     <description>Seyedarian (Arian) Hosseini</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <url>https://elementai.github.io/servicenowresearch/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
       <title>Seyedarian (Arian) Hosseini</title>
-      <link>https://servicenowresearch.netlify.app/author/seyedarian-arian-hosseini/</link>
+      <link>https://elementai.github.io/servicenowresearch/author/seyedarian-arian-hosseini/</link>
     </image>
     
     <item>
       <title>Fashion-Gen: The Generative Fashion Dataset and Challenge</title>
-      <link>https://servicenowresearch.netlify.app/publication/negarrostamzadehfashwiml2018/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/negarrostamzadehfashwiml2018/</link>
       <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/negarrostamzadehfashwiml2018/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/negarrostamzadehfashwiml2018/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Fashion-Gen: The Generative Fashion Dataset and Challenge</title>
-      <link>https://servicenowresearch.netlify.app/publication/negarrostamzadehfashicmlworkshops2018/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/negarrostamzadehfashicmlworkshops2018/</link>
       <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/negarrostamzadehfashicmlworkshops2018/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/negarrostamzadehfashicmlworkshops2018/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>

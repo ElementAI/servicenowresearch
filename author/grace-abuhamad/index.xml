@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grace Abuhamad | ServiceNow Research</title>
-    <link>https://servicenowresearch.netlify.app/author/grace-abuhamad/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/author/grace-abuhamad/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/author/grace-abuhamad/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/author/grace-abuhamad/index.xml" rel="self" type="application/rss+xml" />
     <description>Grace Abuhamad</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <url>https://elementai.github.io/servicenowresearch/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
       <title>Grace Abuhamad</title>
-      <link>https://servicenowresearch.netlify.app/author/grace-abuhamad/</link>
+      <link>https://elementai.github.io/servicenowresearch/author/grace-abuhamad/</link>
     </image>
     
     <item>
       <title>Can Active Learning Preemptively Mitigate Fairness Issues?</title>
-      <link>https://servicenowresearch.netlify.app/publication/fredericbranchaud-charroncanaiclrworkshops2021/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/fredericbranchaud-charroncanaiclrworkshops2021/</link>
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/fredericbranchaud-charroncanaiclrworkshops2021/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/fredericbranchaud-charroncanaiclrworkshops2021/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Like A Researcher Stating Broader Impact for the Very First Time</title>
-      <link>https://servicenowresearch.netlify.app/publication/graceabuhamadlikeneuripsworkshops2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/graceabuhamadlikeneuripsworkshops2020/</link>
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/graceabuhamadlikeneuripsworkshops2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/graceabuhamadlikeneuripsworkshops2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>

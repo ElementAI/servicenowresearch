@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latest News | ServiceNow Research</title>
-    <link>https://servicenowresearch.netlify.app/post/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/post/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <url>https://elementai.github.io/servicenowresearch/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
       <title>Latest News</title>
-      <link>https://servicenowresearch.netlify.app/post/</link>
+      <link>https://elementai.github.io/servicenowresearch/post/</link>
     </image>
     
     <item>
       <title>ServiceNow Research spotlight: Papers accepted at ACL 2022</title>
-      <link>https://servicenowresearch.netlify.app/post/2022-04-21servicen/</link>
+      <link>https://elementai.github.io/servicenowresearch/post/2022-04-21servicen/</link>
       <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/post/2022-04-21servicen/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/post/2022-04-21servicen/</guid>
       <description>&lt;p&gt;&amp;lsquo;The 60th annual meeting of the &lt;a href=&#34;https://www.2022.aclweb.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Association for Computational Linguistics&lt;/a&gt;,
 ACL 2022, will take place in Dublin, Ireland, from May 22-27, 2022. ACL is the premier
 international scientific and professional society for people working on computational
@@ -76,9 +76,9 @@ form&lt;/a&gt;.&lt;/p&gt;
     
     <item>
       <title>ServiceNow Research spotlight: Papers accepted at the 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</title>
-      <link>https://servicenowresearch.netlify.app/post/2022-03-14servicen/</link>
+      <link>https://elementai.github.io/servicenowresearch/post/2022-03-14servicen/</link>
       <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/post/2022-03-14servicen/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/post/2022-03-14servicen/</guid>
       <description>&lt;p&gt;&amp;lsquo;The 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)will
 take place from June 19-24, 2022 in New Orleans, Louisiana. The Conference is planned
 to be held in person, with an online option offered to those who cannot travel.

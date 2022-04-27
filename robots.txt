@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://servicenowresearch.netlify.app/sitemap.xml
+Sitemap: https://elementai.github.io/servicenowresearch/sitemap.xml

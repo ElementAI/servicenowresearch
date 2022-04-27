@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Julien Roy | ServiceNow Research</title>
-    <link>https://servicenowresearch.netlify.app/author/julien-roy/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/author/julien-roy/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/author/julien-roy/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/author/julien-roy/index.xml" rel="self" type="application/rss+xml" />
     <description>Julien Roy</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <url>https://elementai.github.io/servicenowresearch/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
       <title>Julien Roy</title>
-      <link>https://servicenowresearch.netlify.app/author/julien-roy/</link>
+      <link>https://elementai.github.io/servicenowresearch/author/julien-roy/</link>
     </image>
     
     <item>
       <title>Adversarial Soft Advantage Fitting: Imitation Learning without Policy Optimization</title>
-      <link>https://servicenowresearch.netlify.app/publication/paulbardeadveneurips2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/paulbardeadveneurips2020/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/paulbardeadveneurips2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/paulbardeadveneurips2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Promoting Coordination through Policy Regularization in Multi-Agent Deep Reinforcement Learning</title>
-      <link>https://servicenowresearch.netlify.app/publication/julienroypromneurips2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/julienroypromneurips2020/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/julienroypromneurips2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/julienroypromneurips2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>

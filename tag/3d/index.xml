@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3D | ServiceNow Research</title>
-    <link>https://servicenowresearch.netlify.app/tag/3d/</link>
-      <atom:link href="https://servicenowresearch.netlify.app/tag/3d/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elementai.github.io/servicenowresearch/tag/3d/</link>
+      <atom:link href="https://elementai.github.io/servicenowresearch/tag/3d/index.xml" rel="self" type="application/rss+xml" />
     <description>3D</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://servicenowresearch.netlify.app/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
+      <url>https://elementai.github.io/servicenowresearch/media/logo_huba9f899c842e3934160f37b6d3cea3d2_65709_300x300_fit_lanczos_3.png</url>
       <title>3D</title>
-      <link>https://servicenowresearch.netlify.app/tag/3d/</link>
+      <link>https://elementai.github.io/servicenowresearch/tag/3d/</link>
     </image>
     
     <item>
       <title>Kubric: A scalable dataset generator</title>
-      <link>https://servicenowresearch.netlify.app/publication/klausgreffkubrcvpr2022/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/klausgreffkubrcvpr2022/</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/klausgreffkubrcvpr2022/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/klausgreffkubrcvpr2022/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Neural Point Light Fields</title>
-      <link>https://servicenowresearch.netlify.app/publication/julianostneurcvpr2022/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/julianostneurcvpr2022/</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/julianostneurcvpr2022/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/julianostneurcvpr2022/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>SSR: Semi-supervised Soft Rasterizer for single-view 2D to 3D Reconstruction</title>
-      <link>https://servicenowresearch.netlify.app/publication/issamh.laradjissriccvworkshops2021/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/issamh.laradjissriccvworkshops2021/</link>
       <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/issamh.laradjissriccvworkshops2021/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/issamh.laradjissriccvworkshops2021/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Pix2Shape: Towards Unsupervised Learning of 3D Scenesfrom Images using a View-based Representation</title>
-      <link>https://servicenowresearch.netlify.app/publication/sairajeswarmudumbapix2ijcv2020/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/sairajeswarmudumbapix2ijcv2020/</link>
       <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/sairajeswarmudumbapix2ijcv2020/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/sairajeswarmudumbapix2ijcv2020/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Domain-Adaptive Single-view 3D Reconstruction</title>
-      <link>https://servicenowresearch.netlify.app/publication/pedroo.pinheirodomaiccv2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/pedroo.pinheirodomaiccv2019/</link>
       <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/pedroo.pinheirodomaiccv2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/pedroo.pinheirodomaiccv2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Slanted Stixels: A way to represent steep streets</title>
-      <link>https://servicenowresearch.netlify.app/publication/danielhernandezslanijcv2019/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/danielhernandezslanijcv2019/</link>
       <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/danielhernandezslanijcv2019/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/danielhernandezslanijcv2019/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Unsupervised Depth Estimation, 3D Face Rotation and Replacement</title>
-      <link>https://servicenowresearch.netlify.app/publication/joelrubenantonymonizunsuneurips2018/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/joelrubenantonymonizunsuneurips2018/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/joelrubenantonymonizunsuneurips2018/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/joelrubenantonymonizunsuneurips2018/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>3D Perception with Slanted Stixels on GPU</title>
-      <link>https://servicenowresearch.netlify.app/publication/danielhernandez3dpeieeet-pds2021/</link>
+      <link>https://elementai.github.io/servicenowresearch/publication/danielhernandez3dpeieeet-pds2021/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://servicenowresearch.netlify.app/publication/danielhernandez3dpeieeet-pds2021/</guid>
+      <guid>https://elementai.github.io/servicenowresearch/publication/danielhernandez3dpeieeet-pds2021/</guid>
       <description>&lt;p&gt;&amp;rsquo; &#39;&lt;/p&gt;
 </description>
     </item>
